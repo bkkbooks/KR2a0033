@@ -1,0 +1,22 @@
+canonical_identifier: bkk:krp/KR2a0033/krp/v1/juan/65
+seq: 65
+front:
+  text: 欽定四庫全書
+  hash: sha256:64d9ff2e7643d8cd3464e7f4c9e75c7d6d85eb6ee80c540d6dcbeeab187b9ddc
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR2a0033_WYG_065-1a, image: WYG0289/WYG0289-0489a.png}
+body:
+  text: 遼史卷六十五元中書右丞相總裁托克托等修表第三公主表春秋之法王姬下嫁書于䇿以魯公同姓之國為之婚主故爾古者婦諱不出門内言不出梱公主悉列于傳非禮也然遼國專任外戚公主多見記傳間不得不表見之禮男女異長不當與皇子同列别為公主附表遼史卷六十五遼史卷六十五考證公主表睿智皇后生三女按刻本舊作睿聖皇后考景宗后諡睿智謹據改景宗四女長夀女下嫁宰相蕭巴雅爾延夀女下嫁蕭恒徳淑格下嫁盧俊改適蕭實訥按聖宗統和元年二月以皇女長夀公主下嫁國舅宰相蕭巴桑子烏里十月以公主淑格下嫁國舅詳衮兆古七年四月國舅太師蕭達為子巴雅爾請尚皇女延夀公主許之今考之表三人所適之名各不同當有舛誤遼史卷六十五考證
+  hash: sha256:b7a160c46ebdcbfbe514e05fc4c382a28e4592f8924a9f9c8a52ada9484f8597
+  markers:
+  - {type: page-break, offset: 114, content: '', id: KR2a0033_WYG_065-9a, image: WYG0289/WYG0289-0493a.png}
+metadata:
+  title: 遼史
+  edition:
+    short: krp
+  date: '2015-08-24 22:22:12.533846'
+  juan_title: 卷六十五
+  source:
+    repository: kanripo
+    path: KR2a0033/KR2a0033_065.txt
+hash: sha256:777e1f00d9cfed22b5a79e54d78aa216cec121ee381edfd0bbca29ab10107ef8

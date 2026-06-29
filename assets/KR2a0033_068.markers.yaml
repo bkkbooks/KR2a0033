@@ -1,0 +1,98 @@
+canonical_identifier: bkk:krp/KR2a0033/bkk/v1/markers/68
+seq: 68
+markers:
+  front:
+  - {type: variant, offset: 0, length: 0, content: '', WYG: 欽定四庫全書}
+  - {type: page-break, offset: 0, content: '', id: KR2a0033_WYG_068-1a, image: WYG0289/WYG0289-0503a.png}
+  - {type: variant, offset: 0, length: 0, content: '', krp: 欽定四庫全書}
+  body:
+  - {type: page-break, offset: 0, content: '', id: KR2a0033_ZHSJ_068-1037a}
+  - {type: line-break, offset: 0, content: '', id: ZHSJ__dup11066}
+  - {type: xml-element, offset: 6, content: '', id: KR2a0033_ZHSJ_068-bkkxmlele1}
+  - {type: 'tls:seg', offset: 6, content: '', id: KR2a0033_ZHSJ_068-d68p1s1}
+  - {type: line-break, offset: 6, content: '', id: ZHSJ__dup11067}
+  - {type: variant, offset: 6, length: 0, content: '', WYG: 元中書右丞相總裁托克托等修}
+  - {type: variant, offset: 6, length: 0, content: '', krp: 元中書右丞相總裁托克托等修}
+  - {type: line-break, offset: 9, content: '', id: ZHSJ__dup11068}
+  - {type: xml-element, offset: 12, content: '', id: KR2a0033_ZHSJ_068-bkkxmlele2}
+  - {type: xml-element, offset: 12, content: '', id: KR2a0033_ZHSJ_068-bkkxmlele3}
+  - {type: 'tls:seg', offset: 12, content: '', id: KR2a0033_ZHSJ_068-d68p2s1}
+  - {type: line-break, offset: 12, content: '', id: ZHSJ__dup11069}
+  - {type: punctuation, offset: 21, content: ，, id: KR2a0033_ZHSJ_068-bkkpn1}
+  - {type: 'tls:seg', offset: 21, content: '', id: KR2a0033_ZHSJ_068-d68p2s2}
+  - {type: punctuation, offset: 27, content: ，, id: KR2a0033_ZHSJ_068-bkkpn2}
+  - {type: 'tls:seg', offset: 27, content: '', id: KR2a0033_ZHSJ_068-d68p2s3}
+  - {type: punctuation, offset: 35, content: ．, id: KR2a0033_ZHSJ_068-bkkpn3}
+  - {type: 'tls:seg', offset: 35, content: '', id: KR2a0033_ZHSJ_068-d68p2s4}
+  - {type: punctuation, offset: 39, content: ，, id: KR2a0033_ZHSJ_068-bkkpn4}
+  - {type: 'tls:seg', offset: 39, content: '', id: KR2a0033_ZHSJ_068-d68p2s5}
+  - {type: punctuation, offset: 43, content: ，, id: KR2a0033_ZHSJ_068-bkkpn5}
+  - {type: 'tls:seg', offset: 43, content: '', id: KR2a0033_ZHSJ_068-d68p2s6}
+  - {type: line-break, offset: 45, content: '', id: ZHSJ__dup11070}
+  - {type: punctuation, offset: 47, content: ，, id: KR2a0033_ZHSJ_068-bkkpn6}
+  - {type: 'tls:seg', offset: 47, content: '', id: KR2a0033_ZHSJ_068-d68p2s7}
+  - {type: punctuation, offset: 51, content: ，, id: KR2a0033_ZHSJ_068-bkkpn7}
+  - {type: 'tls:seg', offset: 51, content: '', id: KR2a0033_ZHSJ_068-d68p2s8}
+  - {type: punctuation, offset: 56, content: ，, id: KR2a0033_ZHSJ_068-bkkpn8}
+  - {type: 'tls:seg', offset: 56, content: '', id: KR2a0033_ZHSJ_068-d68p2s9}
+  - {type: punctuation, offset: 60, content: ．, id: KR2a0033_ZHSJ_068-bkkpn9}
+  - {type: 'tls:seg', offset: 60, content: '', id: KR2a0033_ZHSJ_068-d68p2s10}
+  - {type: punctuation, offset: 66, content: ，, id: KR2a0033_ZHSJ_068-bkkpn10}
+  - {type: 'tls:seg', offset: 66, content: '', id: KR2a0033_ZHSJ_068-d68p2s11}
+  - {type: variant, offset: 69, length: 1, content: 暇, WYG: 睱}
+  - {type: variant, offset: 69, length: 1, content: 暇, krp: 睱}
+  - {type: punctuation, offset: 70, content: ；, id: KR2a0033_ZHSJ_068-bkkpn11}
+  - {type: 'tls:seg', offset: 70, content: '', id: KR2a0033_ZHSJ_068-d68p2s12}
+  - {type: punctuation, offset: 72, content: 、, id: KR2a0033_ZHSJ_068-bkkpn12}
+  - {type: page-break, offset: 75, content: '', id: KR2a0033_WYG_068-1b, image: WYG0289/WYG0289-0503b.png}
+  - {type: punctuation, offset: 76, content: ，, id: KR2a0033_ZHSJ_068-bkkpn13}
+  - {type: 'tls:seg', offset: 76, content: '', id: KR2a0033_ZHSJ_068-d68p2s13}
+  - {type: line-break, offset: 78, content: '', id: ZHSJ__dup11071}
+  - {type: punctuation, offset: 80, content: ．, id: KR2a0033_ZHSJ_068-bkkpn14}
+  - {type: 'tls:seg', offset: 80, content: '', id: KR2a0033_ZHSJ_068-d68p2s14}
+  - {type: variant, offset: 85, length: 1, content: 別, WYG: 别}
+  - {type: variant, offset: 85, length: 1, content: 別, krp: 别}
+  - {type: punctuation, offset: 90, content: ，, id: KR2a0033_ZHSJ_068-bkkpn15}
+  - {type: 'tls:seg', offset: 90, content: '', id: KR2a0033_ZHSJ_068-d68p2s15}
+  - {type: punctuation, offset: 93, content: ，, id: KR2a0033_ZHSJ_068-bkkpn16}
+  - {type: 'tls:seg', offset: 93, content: '', id: KR2a0033_ZHSJ_068-d68p2s16}
+  - {type: punctuation, offset: 100, content: ．, id: KR2a0033_ZHSJ_068-bkkpn17}
+  - {type: 'tls:seg', offset: 100, content: '', id: KR2a0033_ZHSJ_068-d68p2s17}
+  - {type: punctuation, offset: 104, content: ．, id: KR2a0033_ZHSJ_068-bkkpn18}
+  - {type: 'tls:seg', offset: 104, content: '', id: KR2a0033_ZHSJ_068-d68p2s18}
+  - {type: page-break, offset: 104, content: '', id: KR2a0033_ZHSJ_068-1075a}
+  - {type: xml-element, offset: 104, content: '', id: KR2a0033_ZHSJ_068-bkkxmlele4}
+  - {type: xml-element, offset: 104, content: '', id: KR2a0033_ZHSJ_068-d68n1}
+  - {type: xml-element, offset: 104, content: '', id: KR2a0033_ZHSJ_068-d68n1_end}
+  - {type: variant, offset: 104, length: 0, content: '', WYG: 遼史卷六十八遼史卷六十八考證開泰八年幸秦晉長公主第作藏鬮宴按禮志載藏鬮儀明書太康十年始制此儀是創於道宗時也此又似聖宗時已有此儀矣考之二宗本紀中均無明文未知表與志所載孰是遼史卷六十八考證}
+  - {type: page-break, offset: 104, content: '', id: KR2a0033_WYG_068-2a, image: WYG0289/WYG0289-0503c.png}
+  - {type: page-break, offset: 104, content: '', id: KR2a0033_WYG_068-3a, image: WYG0289/WYG0289-0504a.png}
+  - {type: page-break, offset: 104, content: '', id: KR2a0033_WYG_068-4a, image: WYG0289/WYG0289-0504c.png}
+  - {type: page-break, offset: 104, content: '', id: KR2a0033_WYG_068-5a, image: WYG0289/WYG0289-0505a.png}
+  - {type: page-break, offset: 104, content: '', id: KR2a0033_WYG_068-6a, image: WYG0289/WYG0289-0505c.png}
+  - {type: page-break, offset: 104, content: '', id: KR2a0033_WYG_068-7a, image: WYG0289/WYG0289-0506a.png}
+  - {type: page-break, offset: 104, content: '', id: KR2a0033_WYG_068-8a, image: WYG0289/WYG0289-0506c.png}
+  - {type: page-break, offset: 104, content: '', id: KR2a0033_WYG_068-9a, image: WYG0289/WYG0289-0507a.png}
+  - {type: page-break, offset: 104, content: '', id: KR2a0033_WYG_068-10a, image: WYG0289/WYG0289-0507c.png}
+  - {type: page-break, offset: 104, content: '', id: KR2a0033_WYG_068-11a, image: WYG0289/WYG0289-0508a.png}
+  - {type: page-break, offset: 104, content: '', id: KR2a0033_WYG_068-12a, image: WYG0289/WYG0289-0508c.png}
+  - {type: page-break, offset: 104, content: '', id: KR2a0033_WYG_068-13a, image: WYG0289/WYG0289-0509a.png}
+  - {type: page-break, offset: 104, content: '', id: KR2a0033_WYG_068-14a, image: WYG0289/WYG0289-0509c.png}
+  - {type: page-break, offset: 104, content: '', id: KR2a0033_WYG_068-15a, image: WYG0289/WYG0289-0510a.png}
+  - {type: page-break, offset: 104, content: '', id: KR2a0033_WYG_068-16a, image: WYG0289/WYG0289-0510c.png}
+  - {type: page-break, offset: 104, content: '', id: KR2a0033_WYG_068-17a, image: WYG0289/WYG0289-0511a.png}
+  - {type: page-break, offset: 104, content: '', id: KR2a0033_WYG_068-18a, image: WYG0289/WYG0289-0511c.png}
+  - {type: page-break, offset: 104, content: '', id: KR2a0033_WYG_068-19a, image: WYG0289/WYG0289-0512a.png}
+  - {type: page-break, offset: 104, content: '', id: KR2a0033_WYG_068-20a, image: WYG0289/WYG0289-0512c.png}
+  - {type: page-break, offset: 104, content: '', id: KR2a0033_WYG_068-21a, image: WYG0289/WYG0289-0513a.png}
+  - {type: page-break, offset: 104, content: '', id: KR2a0033_WYG_068-22a, image: WYG0289/WYG0289-0513c.png}
+  - {type: page-break, offset: 104, content: '', id: KR2a0033_WYG_068-23a, image: WYG0289/WYG0289-0514a.png}
+  - {type: page-break, offset: 104, content: '', id: KR2a0033_WYG_068-24a, image: WYG0289/WYG0289-0514c.png}
+  - {type: page-break, offset: 104, content: '', id: KR2a0033_WYG_068-25a, image: WYG0289/WYG0289-0515a.png}
+  - {type: page-break, offset: 104, content: '', id: KR2a0033_WYG_068-26a, image: WYG0289/WYG0289-0515c.png}
+  - {type: page-break, offset: 104, content: '', id: KR2a0033_WYG_068-26b, image: WYG0289/WYG0289-0515d.png}
+  - {type: page-break, offset: 104, content: '', id: KR2a0033_WYG_068-27a, image: WYG0289/WYG0289-0516a.png}
+  - {type: page-break, offset: 104, content: '', id: KR2a0033_WYG_068-27b, image: WYG0289/WYG0289-0516b.png}
+  - {type: variant, offset: 104, length: 0, content: '', krp: 遼史卷六十八遼史卷六十八考證開泰八年幸秦晉長公主第作藏鬮宴按禮志載藏鬮儀明書太康十年始制此儀是創於道宗時也此又似聖宗時已有此儀矣考之二宗本紀中均無明文未知表與志所載孰是遼史卷六十八考證}
+  back: []
+hash: sha256:20f8ec4a1381811ff3299c334693ba2e68069d59fad66b35b39585bea7337e3b

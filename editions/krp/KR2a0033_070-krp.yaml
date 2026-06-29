@@ -1,0 +1,20 @@
+canonical_identifier: bkk:krp/KR2a0033/krp/v1/juan/70
+seq: 70
+front:
+  text: 欽定四庫全書
+  hash: sha256:64d9ff2e7643d8cd3464e7f4c9e75c7d6d85eb6ee80c540d6dcbeeab187b9ddc
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR2a0033_WYG_070-1a, image: WYG0289/WYG0289-0532a.png}
+body:
+  text: 遼史卷七十元中書右丞相總裁托克托等修表第八屬國表周有天下不期而㑹者八百餘國遼居松漠最為彊盛天命有歸建國改元號令法度皆遵漢制命將出師臣服諸國人民皆入版籍貢賦悉輸内帑東西朔南何啻萬里視古起百里國而致太平之業者亦幾矣故有遼之盛不可不著作屬國表遼史卷七十
+  hash: sha256:38c25cf02df802184fd1ffe8e7821f64bfe314e443c2b0249a09cd90b0f5c93e
+metadata:
+  title: 遼史
+  edition:
+    short: krp
+  date: '2015-08-24 22:22:12.533846'
+  juan_title: 卷七十
+  source:
+    repository: kanripo
+    path: KR2a0033/KR2a0033_070.txt
+hash: sha256:9f1b2d7de1a00cd8302144ccce1852dd830867f579813aaf260b81ef1a32f2f7

@@ -1,0 +1,18 @@
+canonical_identifier: bkk:krp/KR2a0033/zhsj/v1/juan/66
+seq: 66
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 遼史卷六十六表第四皇族表遼太祖建國諸弟窺覦含容誘掖弗忍致辟古聖人猶難之雖其度量恢廓然經國之慮遠矣終遼之世其出於橫帳五院六院之間者大憝固有元勳實多不表見之莫知源委作皇族表
+  hash: sha256:2a94f2bc5adf19d73ebfe5670bc267d2efd6bbbbdf9b06184fcb578c33f7b2c2
+  markers:
+  - {type: 'tls:head', offset: 0, content: '', id: KR2a0033_ZHSJ_066-d66h1s1}
+metadata:
+  title: 遼書
+  edition:
+    short: zhsj
+  source:
+    repository: tls-texts
+    path: data/tls/KR2a0033.xml
+hash: sha256:1b8747d86edef094cf6273ae65f5e78f3b1c100468516c0134d339f3d947a9b3

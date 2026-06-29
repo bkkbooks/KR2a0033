@@ -1,0 +1,174 @@
+canonical_identifier: bkk:krp/KR2a0033/bkk/v1/markers/67
+seq: 67
+markers:
+  front:
+  - {type: variant, offset: 0, length: 0, content: '', WYG: 欽定四庫全書}
+  - {type: page-break, offset: 0, content: '', id: KR2a0033_WYG_067-1a, image: WYG0289/WYG0289-0499a.png}
+  - {type: variant, offset: 0, length: 0, content: '', krp: 欽定四庫全書}
+  body:
+  - {type: page-break, offset: 0, content: '', id: KR2a0033_ZHSJ_067-1027a}
+  - {type: line-break, offset: 0, content: '', id: ZHSJ__dup11055}
+  - {type: xml-element, offset: 6, content: '', id: KR2a0033_ZHSJ_067-bkkxmlele1}
+  - {type: 'tls:seg', offset: 6, content: '', id: KR2a0033_ZHSJ_067-d67p1s1}
+  - {type: line-break, offset: 6, content: '', id: ZHSJ__dup11056}
+  - {type: variant, offset: 6, length: 0, content: '', WYG: 元中書右丞相總裁托克托等修}
+  - {type: variant, offset: 6, length: 0, content: '', krp: 元中書右丞相總裁托克托等修}
+  - {type: line-break, offset: 9, content: '', id: ZHSJ__dup11057}
+  - {type: xml-element, offset: 12, content: '', id: KR2a0033_ZHSJ_067-bkkxmlele2}
+  - {type: xml-element, offset: 12, content: '', id: KR2a0033_ZHSJ_067-bkkxmlele3}
+  - {type: 'tls:seg', offset: 12, content: '', id: KR2a0033_ZHSJ_067-d67p2s1}
+  - {type: line-break, offset: 12, content: '', id: ZHSJ__dup11058}
+  - {type: punctuation, offset: 20, content: ，, id: KR2a0033_ZHSJ_067-bkkpn1}
+  - {type: 'tls:seg', offset: 20, content: '', id: KR2a0033_ZHSJ_067-d67p2s2}
+  - {type: punctuation, offset: 28, content: ．, id: KR2a0033_ZHSJ_067-bkkpn2}
+  - {type: 'tls:seg', offset: 28, content: '', id: KR2a0033_ZHSJ_067-d67p2s3}
+  - {type: punctuation, offset: 32, content: 、, id: KR2a0033_ZHSJ_067-bkkpn3}
+  - {type: punctuation, offset: 38, content: ，, id: KR2a0033_ZHSJ_067-bkkpn4}
+  - {type: 'tls:seg', offset: 38, content: '', id: KR2a0033_ZHSJ_067-d67p2s4}
+  - {type: punctuation, offset: 40, content: 、, id: KR2a0033_ZHSJ_067-bkkpn5}
+  - {type: punctuation, offset: 42, content: ，, id: KR2a0033_ZHSJ_067-bkkpn6}
+  - {type: 'tls:seg', offset: 42, content: '', id: KR2a0033_ZHSJ_067-d67p2s5}
+  - {type: line-break, offset: 44, content: '', id: ZHSJ__dup11059}
+  - {type: punctuation, offset: 46, content: ，, id: KR2a0033_ZHSJ_067-bkkpn7}
+  - {type: 'tls:seg', offset: 46, content: '', id: KR2a0033_ZHSJ_067-d67p2s6}
+  - {type: punctuation, offset: 50, content: ，, id: KR2a0033_ZHSJ_067-bkkpn8}
+  - {type: 'tls:seg', offset: 50, content: '', id: KR2a0033_ZHSJ_067-d67p2s7}
+  - {type: punctuation, offset: 54, content: ，, id: KR2a0033_ZHSJ_067-bkkpn9}
+  - {type: 'tls:seg', offset: 54, content: '', id: KR2a0033_ZHSJ_067-d67p2s8}
+  - {type: punctuation, offset: 58, content: ．, id: KR2a0033_ZHSJ_067-bkkpn10}
+  - {type: 'tls:seg', offset: 58, content: '', id: KR2a0033_ZHSJ_067-d67p2s9}
+  - {type: punctuation, offset: 63, content: ，, id: KR2a0033_ZHSJ_067-bkkpn11}
+  - {type: 'tls:seg', offset: 63, content: '', id: KR2a0033_ZHSJ_067-d67p2s10}
+  - {type: punctuation, offset: 68, content: ，, id: KR2a0033_ZHSJ_067-bkkpn12}
+  - {type: 'tls:seg', offset: 68, content: '', id: KR2a0033_ZHSJ_067-d67p2s11}
+  - {type: punctuation, offset: 74, content: ．, id: KR2a0033_ZHSJ_067-bkkpn13}
+  - {type: xml-element, offset: 74, content: '', id: KR2a0033_ZHSJ_067-bkkxmlele4}
+  - {type: xml-element, offset: 74, content: '', id: KR2a0033_ZHSJ_067-bkkxmlele5}
+  - {type: 'tls:seg', offset: 74, content: '', id: KR2a0033_ZHSJ_067-d67p3s1}
+  - {type: line-break, offset: 74, content: '', id: ZHSJ__dup11060}
+  - {type: page-break, offset: 75, content: '', id: KR2a0033_WYG_067-1b, image: WYG0289/WYG0289-0499b.png}
+  - {type: punctuation, offset: 78, content: ，, id: KR2a0033_ZHSJ_067-bkkpn14}
+  - {type: 'tls:seg', offset: 78, content: '', id: KR2a0033_ZHSJ_067-d67p3s2}
+  - {type: variant, offset: 82, length: 1, content: 審, WYG: 舒}
+  - {type: variant, offset: 82, length: 1, content: 審, krp: 舒}
+  - {type: variant, offset: 83, length: 1, content: 密, WYG: 敏}
+  - {type: variant, offset: 83, length: 1, content: 密, krp: 敏}
+  - {type: punctuation, offset: 85, content: ：, id: KR2a0033_ZHSJ_067-bkkpn15}
+  - {type: variant, offset: 86, length: 1, content: 拔, WYG: 巴}
+  - {type: variant, offset: 86, length: 1, content: 拔, krp: 巴}
+  - {type: variant, offset: 87, length: 1, content: 里, WYG: 哩}
+  - {type: variant, offset: 87, length: 1, content: 里, krp: 哩}
+  - {type: punctuation, offset: 88, content: ，, id: KR2a0033_ZHSJ_067-bkkpn16}
+  - {type: 'tls:seg', offset: 88, content: '', id: KR2a0033_ZHSJ_067-d67p3s3}
+  - {type: variant, offset: 89, length: 3, content: 乙室已, WYG: 伊蘇濟勒}
+  - {type: variant, offset: 89, length: 3, content: 乙室已, krp: 伊蘇濟勒}
+  - {type: punctuation, offset: 92, content: ．, id: KR2a0033_ZHSJ_067-bkkpn17}
+  - {type: 'tls:seg', offset: 92, content: '', id: KR2a0033_ZHSJ_067-d67p3s4}
+  - {type: punctuation, offset: 96, content: ，, id: KR2a0033_ZHSJ_067-bkkpn18}
+  - {type: 'tls:seg', offset: 96, content: '', id: KR2a0033_ZHSJ_067-d67p3s5}
+  - {type: variant, offset: 97, length: 1, content: 述, WYG: 舒}
+  - {type: variant, offset: 97, length: 1, content: 述, krp: 舒}
+  - {type: variant, offset: 98, length: 1, content: 律, WYG: 嚕}
+  - {type: variant, offset: 98, length: 1, content: 律, krp: 嚕}
+  - {type: punctuation, offset: 100, content: ．, id: KR2a0033_ZHSJ_067-bkkpn19}
+  - {type: 'tls:seg', offset: 100, content: '', id: KR2a0033_ZHSJ_067-d67p3s6}
+  - {type: variant, offset: 100, length: 1, content: 述, WYG: 舒}
+  - {type: variant, offset: 100, length: 1, content: 述, krp: 舒}
+  - {type: variant, offset: 101, length: 1, content: 律, WYG: 嚕}
+  - {type: variant, offset: 101, length: 1, content: 律, krp: 嚕}
+  - {type: punctuation, offset: 102, content: ，, id: KR2a0033_ZHSJ_067-bkkpn20}
+  - {type: 'tls:seg', offset: 102, content: '', id: KR2a0033_ZHSJ_067-d67p3s7}
+  - {type: variant, offset: 103, length: 1, content: 回, WYG: 囘}
+  - {type: variant, offset: 103, length: 1, content: 回, krp: 囘}
+  - {type: line-break, offset: 105, content: '', id: ZHSJ__dup11061}
+  - {type: variant, offset: 105, length: 3, content: 糯思之, WYG: 諾蘇}
+  - {type: variant, offset: 105, length: 3, content: 糯思之, krp: 諾蘇}
+  - {type: punctuation, offset: 109, content: ．, id: KR2a0033_ZHSJ_067-bkkpn21}
+  - {type: 'tls:seg', offset: 109, content: '', id: KR2a0033_ZHSJ_067-d67p3s8}
+  - {type: punctuation, offset: 113, content: ，, id: KR2a0033_ZHSJ_067-bkkpn22}
+  - {type: 'tls:seg', offset: 113, content: '', id: KR2a0033_ZHSJ_067-d67p3s9}
+  - {type: punctuation, offset: 119, content: ，, id: KR2a0033_ZHSJ_067-bkkpn23}
+  - {type: 'tls:seg', offset: 119, content: '', id: KR2a0033_ZHSJ_067-d67p3s10}
+  - {type: punctuation, offset: 130, content: ，, id: KR2a0033_ZHSJ_067-bkkpn24}
+  - {type: 'tls:seg', offset: 130, content: '', id: KR2a0033_ZHSJ_067-d67p3s11}
+  - {type: punctuation, offset: 136, content: ，, id: KR2a0033_ZHSJ_067-bkkpn25}
+  - {type: 'tls:seg', offset: 136, content: '', id: KR2a0033_ZHSJ_067-d67p3s12}
+  - {type: variant, offset: 138, length: 3, content: 中國之, WYG: 華}
+  - {type: variant, offset: 138, length: 3, content: 中國之, krp: 華}
+  - {type: line-break, offset: 140, content: '', id: ZHSJ__dup11062}
+  - {type: punctuation, offset: 142, content: ，, id: KR2a0033_ZHSJ_067-bkkpn26}
+  - {type: 'tls:seg', offset: 142, content: '', id: KR2a0033_ZHSJ_067-d67p3s13}
+  - {type: variant, offset: 144, length: 7, content: 拔里乙室已述律, WYG: 巴哩伊蘇濟勒舒嚕}
+  - {type: variant, offset: 144, length: 7, content: 拔里乙室已述律, krp: 巴哩伊蘇濟勒舒嚕}
+  - {type: punctuation, offset: 146, content: 、, id: KR2a0033_ZHSJ_067-bkkpn27}
+  - {type: punctuation, offset: 149, content: 、, id: KR2a0033_ZHSJ_067-bkkpn28}
+  - {type: punctuation, offset: 157, content: ．, id: KR2a0033_ZHSJ_067-bkkpn29}
+  - {type: 'tls:seg', offset: 157, content: '', id: KR2a0033_ZHSJ_067-d67p3s14}
+  - {type: variant, offset: 157, length: 1, content: 拔, WYG: 巴}
+  - {type: variant, offset: 157, length: 1, content: 拔, krp: 巴}
+  - {type: variant, offset: 158, length: 1, content: 里, WYG: 哩}
+  - {type: variant, offset: 158, length: 1, content: 里, krp: 哩}
+  - {type: punctuation, offset: 161, content: ，, id: KR2a0033_ZHSJ_067-bkkpn30}
+  - {type: 'tls:seg', offset: 161, content: '', id: KR2a0033_ZHSJ_067-d67p3s15}
+  - {type: punctuation, offset: 164, content: 、, id: KR2a0033_ZHSJ_067-bkkpn31}
+  - {type: punctuation, offset: 166, content: ；, id: KR2a0033_ZHSJ_067-bkkpn32}
+  - {type: 'tls:seg', offset: 166, content: '', id: KR2a0033_ZHSJ_067-d67p3s16}
+  - {type: variant, offset: 166, length: 3, content: 乙室已, WYG: 伊蘇濟勒}
+  - {type: variant, offset: 166, length: 3, content: 乙室已, krp: 伊蘇濟勒}
+  - {type: punctuation, offset: 172, content: ，, id: KR2a0033_ZHSJ_067-bkkpn33}
+  - {type: 'tls:seg', offset: 172, content: '', id: KR2a0033_ZHSJ_067-d67p3s17}
+  - {type: line-break, offset: 173, content: '', id: ZHSJ__dup11063}
+  - {type: punctuation, offset: 175, content: 、, id: KR2a0033_ZHSJ_067-bkkpn34}
+  - {type: punctuation, offset: 177, content: ；, id: KR2a0033_ZHSJ_067-bkkpn35}
+  - {type: 'tls:seg', offset: 177, content: '', id: KR2a0033_ZHSJ_067-d67p3s18}
+  - {type: variant, offset: 183, length: 1, content: 列, WYG: 喇}
+  - {type: variant, offset: 183, length: 1, content: 列, krp: 喇}
+  - {type: variant, offset: 184, length: 1, content: 葛, WYG: 噶}
+  - {type: variant, offset: 184, length: 1, content: 葛, krp: 噶}
+  - {type: variant, offset: 188, length: 1, content: 別, WYG: 别}
+  - {type: variant, offset: 188, length: 1, content: 別, krp: 别}
+  - {type: punctuation, offset: 190, content: ．, id: KR2a0033_ZHSJ_067-bkkpn36}
+  - {type: 'tls:seg', offset: 190, content: '', id: KR2a0033_ZHSJ_067-d67p3s19}
+  - {type: punctuation, offset: 199, content: ，, id: KR2a0033_ZHSJ_067-bkkpn37}
+  - {type: 'tls:seg', offset: 199, content: '', id: KR2a0033_ZHSJ_067-d67p3s20}
+  - {type: line-break, offset: 208, content: '', id: ZHSJ__dup11064}
+  - {type: variant, offset: 208, length: 1, content: 骨, WYG: 古}
+  - {type: variant, offset: 208, length: 1, content: 骨, krp: 古}
+  - {type: variant, offset: 209, length: 1, content: 只, WYG: 齊}
+  - {type: variant, offset: 209, length: 1, content: 只, krp: 齊}
+  - {type: variant, offset: 211, length: 1, content: 也, WYG: ''}
+  - {type: variant, offset: 211, length: 1, content: 也, krp: ''}
+  - {type: punctuation, offset: 212, content: ．, id: KR2a0033_ZHSJ_067-bkkpn38}
+  - {type: punctuation, offset: 212, content: 〔一〕, id: KR2a0033_ZHSJ_067-bkkpn39}
+  - {type: 'tls:seg', offset: 212, content: '', id: KR2a0033_ZHSJ_067-d67p3s21}
+  - {type: variant, offset: 215, length: 5, content: 拔里乙室已, WYG: 巴哩伊蘇濟勒}
+  - {type: variant, offset: 215, length: 5, content: 拔里乙室已, krp: 巴哩伊蘇濟勒}
+  - {type: punctuation, offset: 217, content: 、, id: KR2a0033_ZHSJ_067-bkkpn40}
+  - {type: punctuation, offset: 226, content: ，, id: KR2a0033_ZHSJ_067-bkkpn41}
+  - {type: 'tls:seg', offset: 226, content: '', id: KR2a0033_ZHSJ_067-d67p3s22}
+  - {type: variant, offset: 227, length: 1, content: 別, WYG: 别}
+  - {type: variant, offset: 227, length: 1, content: 別, krp: 别}
+  - {type: punctuation, offset: 231, content: ．, id: KR2a0033_ZHSJ_067-bkkpn42}
+  - {type: 'tls:seg', offset: 231, content: '', id: KR2a0033_ZHSJ_067-d67p3s23}
+  - {type: punctuation, offset: 239, content: ．, id: KR2a0033_ZHSJ_067-bkkpn43}
+  - {type: 'tls:seg', offset: 239, content: '', id: KR2a0033_ZHSJ_067-d67p3s24}
+  - {type: line-break, offset: 241, content: '', id: ZHSJ__dup11065}
+  - {type: punctuation, offset: 243, content: ．, id: KR2a0033_ZHSJ_067-bkkpn44}
+  - {type: 'tls:seg', offset: 243, content: '', id: KR2a0033_ZHSJ_067-d67p3s25}
+  - {type: page-break, offset: 243, content: '', id: KR2a0033_ZHSJ_067-1034a}
+  - {type: xml-element, offset: 243, content: '', id: KR2a0033_ZHSJ_067-bkkxmlele6}
+  - {type: xml-element, offset: 243, content: '', id: KR2a0033_ZHSJ_067-d67n1}
+  - {type: xml-element, offset: 243, content: '', id: KR2a0033_ZHSJ_067-d67n1_end}
+  - {type: variant, offset: 243, length: 0, content: '', WYG: 遼史卷六十七遼史卷六十七考證五世祖哈瑪爾北府宰相達魯按哈瑪爾為大父房最逺祖距達魯五世中間不可考原本列入第一世而以達魯為第二世實非父子也見達魯傳北院樞密使惠西北招討使慈氏努按蕭惠傳惠二子一為慈氏努其一為兀古匿終北府宰相表于慈氏努之次並未列入轉於下二格之旁列乙古蒲匿二名疑即兀古匿之訛然紀傳無可旁證今存其舊仍譯改為伊庫布尼二名以符體例使相薩瑪蘭陵郡王徳勒岱茂薩薩瑪原本作撒磨按徳勒岱傳又作撒鉢茂薩原本作磨撒按本傳又作麽撒今畫一改訂宰相塔喇按蕭迪里傳迪里為塔喇四世孫表未列入而轉列和克及巴拉名按和克為迪里族子乃塔喇之五世孫巴拉為迪里弟乃和克之父行又不應與和克平列舛訛叠出今附考以識其訛南院樞密使朴按蕭朴子多喇官國舅部詳衮見朴傳表未列入殊畧遼史卷六十七考證}
+  - {type: page-break, offset: 243, content: '', id: KR2a0033_WYG_067-2a, image: WYG0289/WYG0289-0499c.png}
+  - {type: page-break, offset: 243, content: '', id: KR2a0033_WYG_067-3a, image: WYG0289/WYG0289-0500a.png}
+  - {type: page-break, offset: 243, content: '', id: KR2a0033_WYG_067-4a, image: WYG0289/WYG0289-0500c.png}
+  - {type: page-break, offset: 243, content: '', id: KR2a0033_WYG_067-5a, image: WYG0289/WYG0289-0501a.png}
+  - {type: page-break, offset: 243, content: '', id: KR2a0033_WYG_067-5b, image: WYG0289/WYG0289-0501c.png}
+  - {type: page-break, offset: 243, content: '', id: KR2a0033_WYG_067-6a, image: WYG0289/WYG0289-0502a.png}
+  - {type: page-break, offset: 243, content: '', id: KR2a0033_WYG_067-6b, image: WYG0289/WYG0289-0502b.png}
+  - {type: page-break, offset: 243, content: '', id: KR2a0033_WYG_067-7a, image: WYG0289/WYG0289-0502c.png}
+  - {type: page-break, offset: 243, content: '', id: KR2a0033_WYG_067-7b, image: WYG0289/WYG0289-0502d.png}
+  - {type: variant, offset: 243, length: 0, content: '', krp: 遼史卷六十七遼史卷六十七考證五世祖哈瑪爾北府宰相達魯按哈瑪爾為大父房最逺祖距達魯五世中間不可考原本列入第一世而以達魯為第二世實非父子也見達魯傳北院樞密使惠西北招討使慈氏努按蕭惠傳惠二子一為慈氏努其一為兀古匿終北府宰相表于慈氏努之次並未列入轉於下二格之旁列乙古蒲匿二名疑即兀古匿之訛然紀傳無可旁證今存其舊仍譯改為伊庫布尼二名以符體例使相薩瑪蘭陵郡王徳勒岱茂薩薩瑪原本作撒磨按徳勒岱傳又作撒鉢茂薩原本作磨撒按本傳又作麽撒今畫一改訂宰相塔喇按蕭迪里傳迪里為塔喇四世孫表未列入而轉列和克及巴拉名按和克為迪里族子乃塔喇之五世孫巴拉為迪里弟乃和克之父行又不應與和克平列舛訛叠出今附考以識其訛南院樞密使朴按蕭朴子多喇官國舅部詳衮見朴傳表未列入殊畧遼史卷六十七考證}
+  back: []
+hash: sha256:98db54ecdfce711163eebcf4e492479f5a6df2c95fcb8747b4d8757406654ede

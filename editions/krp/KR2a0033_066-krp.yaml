@@ -1,0 +1,22 @@
+canonical_identifier: bkk:krp/KR2a0033/krp/v1/juan/66
+seq: 66
+front:
+  text: 欽定四庫全書
+  hash: sha256:64d9ff2e7643d8cd3464e7f4c9e75c7d6d85eb6ee80c540d6dcbeeab187b9ddc
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR2a0033_WYG_066-1a, image: WYG0289/WYG0289-0494a.png}
+body:
+  text: 遼史卷六十六元中書右丞相總裁托克托等修表第四皇族表遼太祖建國諸弟窺覦含容誘掖弗忍致辟古聖人猶難之雖其度量恢廓然經國之慮逺矣終遼之世其出於横帳五院六院之間者大憝固有元勲寔多不表見之莫知源委作皇族表不知世次太子太傅唐古右系出興宗神聖孝章皇帝遼史卷六十六遼史卷六十六考證皇族表第八世混同郡王額特埓按續通考額特埓乃阿里之元孫列第七世與此互異遼史卷六十六考證
+  hash: sha256:57f9ca4a29dd8a273a2394abdbb25bee840c5f945489722a2cf1feeba79dc104
+  markers:
+  - {type: page-break, offset: 124, content: '', id: KR2a0033_WYG_066-9a, image: WYG0289/WYG0289-0498c.png}
+metadata:
+  title: 遼史
+  edition:
+    short: krp
+  date: '2015-08-24 22:22:12.533846'
+  juan_title: 卷六十六
+  source:
+    repository: kanripo
+    path: KR2a0033/KR2a0033_066.txt
+hash: sha256:06c0beb192d064fbac2a7d079b8b44e33dfb6d3eab9f3aff84c03b3c9bae0eea

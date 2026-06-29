@@ -1,0 +1,18 @@
+canonical_identifier: bkk:krp/KR2a0033/zhsj/v1/juan/68
+seq: 68
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 遼史卷六十八表第六遊幸表朔漠以畜牧射獵為業猶漢人之劭農生生之資於是乎出自遼有國建立五京置南北院控制諸夏而遊田之習尚因其舊太祖經營四方有所不暇穆宗天祚之世史不勝書今援司馬遷別書封禪例列于表觀者固足以鑒云作遊幸表
+  hash: sha256:bec94f2e9568f6067fb0558d72d154613eb1d7020c88d880c92cc095cb275f7c
+  markers:
+  - {type: 'tls:head', offset: 0, content: '', id: KR2a0033_ZHSJ_068-d68h1s1}
+metadata:
+  title: 遼書
+  edition:
+    short: zhsj
+  source:
+    repository: tls-texts
+    path: data/tls/KR2a0033.xml
+hash: sha256:6bbf1217f56fa04bc6efaebc0824a51f2ed316287522f0be40612a68dfaf0045

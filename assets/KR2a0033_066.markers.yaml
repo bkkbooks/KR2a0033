@@ -1,0 +1,79 @@
+canonical_identifier: bkk:krp/KR2a0033/bkk/v1/markers/66
+seq: 66
+markers:
+  front:
+  - {type: variant, offset: 0, length: 0, content: '', WYG: 欽定四庫全書}
+  - {type: page-break, offset: 0, content: '', id: KR2a0033_WYG_066-1a, image: WYG0289/WYG0289-0494a.png}
+  - {type: variant, offset: 0, length: 0, content: '', krp: 欽定四庫全書}
+  body:
+  - {type: page-break, offset: 0, content: '', id: KR2a0033_ZHSJ_066-1013a}
+  - {type: line-break, offset: 0, content: '', id: ZHSJ__dup11049}
+  - {type: xml-element, offset: 6, content: '', id: KR2a0033_ZHSJ_066-bkkxmlele1}
+  - {type: 'tls:seg', offset: 6, content: '', id: KR2a0033_ZHSJ_066-d66p1s1}
+  - {type: line-break, offset: 6, content: '', id: ZHSJ__dup11050}
+  - {type: variant, offset: 6, length: 0, content: '', WYG: 元中書右丞相總裁托克托等修}
+  - {type: variant, offset: 6, length: 0, content: '', krp: 元中書右丞相總裁托克托等修}
+  - {type: line-break, offset: 9, content: '', id: ZHSJ__dup11051}
+  - {type: xml-element, offset: 12, content: '', id: KR2a0033_ZHSJ_066-bkkxmlele2}
+  - {type: xml-element, offset: 12, content: '', id: KR2a0033_ZHSJ_066-bkkxmlele3}
+  - {type: 'tls:seg', offset: 12, content: '', id: KR2a0033_ZHSJ_066-d66p2s1}
+  - {type: line-break, offset: 12, content: '', id: ZHSJ__dup11052}
+  - {type: punctuation, offset: 17, content: ，, id: KR2a0033_ZHSJ_066-bkkpn1}
+  - {type: 'tls:seg', offset: 17, content: '', id: KR2a0033_ZHSJ_066-d66p2s2}
+  - {type: punctuation, offset: 21, content: ，, id: KR2a0033_ZHSJ_066-bkkpn2}
+  - {type: 'tls:seg', offset: 21, content: '', id: KR2a0033_ZHSJ_066-d66p2s3}
+  - {type: punctuation, offset: 25, content: ，, id: KR2a0033_ZHSJ_066-bkkpn3}
+  - {type: 'tls:seg', offset: 25, content: '', id: KR2a0033_ZHSJ_066-d66p2s4}
+  - {type: punctuation, offset: 29, content: ，, id: KR2a0033_ZHSJ_066-bkkpn4}
+  - {type: 'tls:seg', offset: 29, content: '', id: KR2a0033_ZHSJ_066-d66p2s5}
+  - {type: punctuation, offset: 35, content: ．, id: KR2a0033_ZHSJ_066-bkkpn5}
+  - {type: 'tls:seg', offset: 35, content: '', id: KR2a0033_ZHSJ_066-d66p2s6}
+  - {type: punctuation, offset: 41, content: ，, id: KR2a0033_ZHSJ_066-bkkpn6}
+  - {type: 'tls:seg', offset: 41, content: '', id: KR2a0033_ZHSJ_066-d66p2s7}
+  - {type: line-break, offset: 44, content: '', id: ZHSJ__dup11053}
+  - {type: variant, offset: 46, length: 1, content: 遠, WYG: 逺}
+  - {type: variant, offset: 46, length: 1, content: 遠, krp: 逺}
+  - {type: punctuation, offset: 48, content: ．, id: KR2a0033_ZHSJ_066-bkkpn7}
+  - {type: 'tls:seg', offset: 48, content: '', id: KR2a0033_ZHSJ_066-d66p2s8}
+  - {type: punctuation, offset: 52, content: ，, id: KR2a0033_ZHSJ_066-bkkpn8}
+  - {type: 'tls:seg', offset: 52, content: '', id: KR2a0033_ZHSJ_066-d66p2s9}
+  - {type: variant, offset: 55, length: 1, content: 橫, WYG: 横}
+  - {type: variant, offset: 55, length: 1, content: 橫, krp: 横}
+  - {type: punctuation, offset: 57, content: 、, id: KR2a0033_ZHSJ_066-bkkpn9}
+  - {type: punctuation, offset: 59, content: 、, id: KR2a0033_ZHSJ_066-bkkpn10}
+  - {type: punctuation, offset: 64, content: ，, id: KR2a0033_ZHSJ_066-bkkpn11}
+  - {type: 'tls:seg', offset: 64, content: '', id: KR2a0033_ZHSJ_066-d66p2s10}
+  - {type: punctuation, offset: 68, content: ，, id: KR2a0033_ZHSJ_066-bkkpn12}
+  - {type: 'tls:seg', offset: 68, content: '', id: KR2a0033_ZHSJ_066-d66p2s11}
+  - {type: variant, offset: 69, length: 1, content: 勳, WYG: 勲}
+  - {type: variant, offset: 69, length: 1, content: 勳, krp: 勲}
+  - {type: variant, offset: 70, length: 1, content: 實, WYG: 寔}
+  - {type: variant, offset: 70, length: 1, content: 實, krp: 寔}
+  - {type: punctuation, offset: 72, content: ．, id: KR2a0033_ZHSJ_066-bkkpn13}
+  - {type: 'tls:seg', offset: 72, content: '', id: KR2a0033_ZHSJ_066-d66p2s12}
+  - {type: page-break, offset: 75, content: '', id: KR2a0033_WYG_066-1b, image: WYG0289/WYG0289-0494b.png}
+  - {type: punctuation, offset: 76, content: ，, id: KR2a0033_ZHSJ_066-bkkpn14}
+  - {type: 'tls:seg', offset: 76, content: '', id: KR2a0033_ZHSJ_066-d66p2s13}
+  - {type: line-break, offset: 77, content: '', id: ZHSJ__dup11054}
+  - {type: punctuation, offset: 80, content: ．, id: KR2a0033_ZHSJ_066-bkkpn15}
+  - {type: 'tls:seg', offset: 80, content: '', id: KR2a0033_ZHSJ_066-d66p2s14}
+  - {type: punctuation, offset: 84, content: ．, id: KR2a0033_ZHSJ_066-bkkpn16}
+  - {type: 'tls:seg', offset: 84, content: '', id: KR2a0033_ZHSJ_066-d66p2s15}
+  - {type: page-break, offset: 84, content: '', id: KR2a0033_ZHSJ_066-1024a}
+  - {type: xml-element, offset: 84, content: '', id: KR2a0033_ZHSJ_066-bkkxmlele4}
+  - {type: xml-element, offset: 84, content: '', id: KR2a0033_ZHSJ_066-d66n1}
+  - {type: xml-element, offset: 84, content: '', id: KR2a0033_ZHSJ_066-d66n1_end}
+  - {type: variant, offset: 84, length: 0, content: '', WYG: 不知世次太子太傅唐古右系出興宗神聖孝章皇帝遼史卷六十六遼史卷六十六考證皇族表第八世混同郡王額特埓按續通考額特埓乃阿里之元孫列第七世與此互異遼史卷六十六考證}
+  - {type: page-break, offset: 84, content: '', id: KR2a0033_WYG_066-2a, image: WYG0289/WYG0289-0495a.png}
+  - {type: page-break, offset: 84, content: '', id: KR2a0033_WYG_066-3a, image: WYG0289/WYG0289-0495c.png}
+  - {type: page-break, offset: 84, content: '', id: KR2a0033_WYG_066-4a, image: WYG0289/WYG0289-0496a.png}
+  - {type: page-break, offset: 84, content: '', id: KR2a0033_WYG_066-5a, image: WYG0289/WYG0289-0496c.png}
+  - {type: page-break, offset: 84, content: '', id: KR2a0033_WYG_066-6a, image: WYG0289/WYG0289-0497a.png}
+  - {type: page-break, offset: 84, content: '', id: KR2a0033_WYG_066-7a, image: WYG0289/WYG0289-0497c.png}
+  - {type: page-break, offset: 84, content: '', id: KR2a0033_WYG_066-8a, image: WYG0289/WYG0289-0498a.png}
+  - {type: page-break, offset: 84, content: '', id: KR2a0033_WYG_066-8b, image: WYG0289/WYG0289-0498b.png}
+  - {type: page-break, offset: 84, content: '', id: KR2a0033_WYG_066-9a, image: WYG0289/WYG0289-0498c.png}
+  - {type: page-break, offset: 84, content: '', id: KR2a0033_WYG_066-9b, image: WYG0289/WYG0289-0498d.png}
+  - {type: variant, offset: 84, length: 0, content: '', krp: 不知世次太子太傅唐古右系出興宗神聖孝章皇帝遼史卷六十六遼史卷六十六考證皇族表第八世混同郡王額特埓按續通考額特埓乃阿里之元孫列第七世與此互異遼史卷六十六考證}
+  back: []
+hash: sha256:aeb3a4c98f909c63a77754edebc647ee493152592875e7c702a23e173b8cfc42

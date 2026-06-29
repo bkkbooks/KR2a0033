@@ -1,0 +1,20 @@
+canonical_identifier: bkk:krp/KR2a0033/WYG/v1/juan/68
+seq: 68
+front:
+  text: 欽定四庫全書
+  hash: sha256:64d9ff2e7643d8cd3464e7f4c9e75c7d6d85eb6ee80c540d6dcbeeab187b9ddc
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR2a0033_WYG_068-1a, image: WYG0289/WYG0289-0503a.png}
+body:
+  text: 遼史卷六十八元中書右丞相總裁托克托等修表第六遊幸表朔漠以畜牧射獵為業猶漢人之劭農生生之資於是乎出自遼有國建立五京置南北院控制諸夏而遊田之習尚因其舊太祖經營四方有所不睱穆宗天祚之世史不勝書今援司馬遷别書封禪例列于表觀者固足以鑒云作遊幸表遼史卷六十八遼史卷六十八考證開泰八年幸秦晉長公主第作藏鬮宴按禮志載藏鬮儀明書太康十年始制此儀是創於道宗時也此又似聖宗時已有此儀矣考之二宗本紀中均無明文未知表與志所載孰是遼史卷六十八考證
+  hash: sha256:2a1a43229a089be3bbedcea60450e3c067150b315808ab2126cb5d8d99789549
+metadata:
+  title: 遼史
+  edition:
+    short: WYG
+    label: 【四庫全書・文淵閣】
+  date: '2015-08-24 22:22:12.533846'
+  source:
+    repository: kanripo
+    path: KR2a0033/KR2a0033_068.txt
+hash: sha256:326a05d6cdcc3728a01ba3c23ee768bd5bd5e376756127eaee92c17de0bd7d9d

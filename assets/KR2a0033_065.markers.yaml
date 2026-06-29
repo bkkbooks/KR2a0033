@@ -1,0 +1,81 @@
+canonical_identifier: bkk:krp/KR2a0033/bkk/v1/markers/65
+seq: 65
+markers:
+  front:
+  - {type: variant, offset: 0, length: 0, content: '', WYG: 欽定四庫全書}
+  - {type: page-break, offset: 0, content: '', id: KR2a0033_WYG_065-1a, image: WYG0289/WYG0289-0489a.png}
+  - {type: variant, offset: 0, length: 0, content: '', krp: 欽定四庫全書}
+  body:
+  - {type: page-break, offset: 0, content: '', id: KR2a0033_ZHSJ_065-0999a}
+  - {type: line-break, offset: 0, content: '', id: ZHSJ__dup11043}
+  - {type: xml-element, offset: 6, content: '', id: KR2a0033_ZHSJ_065-bkkxmlele1}
+  - {type: 'tls:seg', offset: 6, content: '', id: KR2a0033_ZHSJ_065-d65p1s1}
+  - {type: line-break, offset: 6, content: '', id: ZHSJ__dup11044}
+  - {type: variant, offset: 6, length: 0, content: '', WYG: 元中書右丞相總裁托克托等修}
+  - {type: variant, offset: 6, length: 0, content: '', krp: 元中書右丞相總裁托克托等修}
+  - {type: line-break, offset: 9, content: '', id: ZHSJ__dup11045}
+  - {type: xml-element, offset: 12, content: '', id: KR2a0033_ZHSJ_065-bkkxmlele2}
+  - {type: xml-element, offset: 12, content: '', id: KR2a0033_ZHSJ_065-bkkxmlele3}
+  - {type: 'tls:seg', offset: 12, content: '', id: KR2a0033_ZHSJ_065-d65p2s1}
+  - {type: line-break, offset: 12, content: '', id: ZHSJ__dup11046}
+  - {type: punctuation, offset: 16, content: ，, id: KR2a0033_ZHSJ_065-bkkpn1}
+  - {type: 'tls:seg', offset: 16, content: '', id: KR2a0033_ZHSJ_065-d65p2s2}
+  - {type: variant, offset: 22, length: 1, content: 策, WYG: 䇿}
+  - {type: variant, offset: 22, length: 1, content: 策, krp: 䇿}
+  - {type: punctuation, offset: 23, content: ，, id: KR2a0033_ZHSJ_065-bkkpn2}
+  - {type: 'tls:seg', offset: 23, content: '', id: KR2a0033_ZHSJ_065-d65p2s3}
+  - {type: punctuation, offset: 36, content: ．, id: KR2a0033_ZHSJ_065-bkkpn3}
+  - {type: 'tls:seg', offset: 36, content: '', id: KR2a0033_ZHSJ_065-d65p2s4}
+  - {type: punctuation, offset: 38, content: ，, id: KR2a0033_ZHSJ_065-bkkpn4}
+  - {type: 'tls:seg', offset: 38, content: '', id: KR2a0033_ZHSJ_065-d65p2s5}
+  - {type: punctuation, offset: 43, content: ，, id: KR2a0033_ZHSJ_065-bkkpn5}
+  - {type: 'tls:seg', offset: 43, content: '', id: KR2a0033_ZHSJ_065-d65p2s6}
+  - {type: variant, offset: 43, length: 1, content: 內, WYG: 内}
+  - {type: variant, offset: 43, length: 1, content: 內, krp: 内}
+  - {type: line-break, offset: 45, content: '', id: ZHSJ__dup11047}
+  - {type: punctuation, offset: 48, content: ．, id: KR2a0033_ZHSJ_065-bkkpn6}
+  - {type: 'tls:seg', offset: 48, content: '', id: KR2a0033_ZHSJ_065-d65p2s7}
+  - {type: punctuation, offset: 54, content: ，, id: KR2a0033_ZHSJ_065-bkkpn7}
+  - {type: 'tls:seg', offset: 54, content: '', id: KR2a0033_ZHSJ_065-d65p2s8}
+  - {type: punctuation, offset: 57, content: ．, id: KR2a0033_ZHSJ_065-bkkpn8}
+  - {type: 'tls:seg', offset: 57, content: '', id: KR2a0033_ZHSJ_065-d65p2s9}
+  - {type: punctuation, offset: 64, content: ，, id: KR2a0033_ZHSJ_065-bkkpn9}
+  - {type: 'tls:seg', offset: 64, content: '', id: KR2a0033_ZHSJ_065-d65p2s10}
+  - {type: variant, offset: 68, length: 1, content: 紀, WYG: 記}
+  - {type: variant, offset: 68, length: 1, content: 紀, krp: 記}
+  - {type: punctuation, offset: 69, content: 、, id: KR2a0033_ZHSJ_065-bkkpn10}
+  - {type: punctuation, offset: 71, content: ，, id: KR2a0033_ZHSJ_065-bkkpn11}
+  - {type: 'tls:seg', offset: 71, content: '', id: KR2a0033_ZHSJ_065-d65p2s11}
+  - {type: page-break, offset: 75, content: '', id: KR2a0033_WYG_065-1b, image: WYG0289/WYG0289-0489b.png}
+  - {type: punctuation, offset: 77, content: ．, id: KR2a0033_ZHSJ_065-bkkpn12}
+  - {type: 'tls:seg', offset: 77, content: '', id: KR2a0033_ZHSJ_065-d65p2s12}
+  - {type: punctuation, offset: 78, content: ，, id: KR2a0033_ZHSJ_065-bkkpn13}
+  - {type: 'tls:seg', offset: 78, content: '', id: KR2a0033_ZHSJ_065-d65p2s13}
+  - {type: line-break, offset: 78, content: '', id: ZHSJ__dup11048}
+  - {type: punctuation, offset: 82, content: ，, id: KR2a0033_ZHSJ_065-bkkpn14}
+  - {type: 'tls:seg', offset: 82, content: '', id: KR2a0033_ZHSJ_065-d65p2s14}
+  - {type: punctuation, offset: 89, content: ，, id: KR2a0033_ZHSJ_065-bkkpn15}
+  - {type: 'tls:seg', offset: 89, content: '', id: KR2a0033_ZHSJ_065-d65p2s15}
+  - {type: variant, offset: 89, length: 1, content: 別, WYG: 别}
+  - {type: variant, offset: 89, length: 1, content: 別, krp: 别}
+  - {type: punctuation, offset: 95, content: ．, id: KR2a0033_ZHSJ_065-bkkpn16}
+  - {type: punctuation, offset: 95, content: 〔一〕, id: KR2a0033_ZHSJ_065-bkkpn17}
+  - {type: 'tls:seg', offset: 95, content: '', id: KR2a0033_ZHSJ_065-d65p2s16}
+  - {type: page-break, offset: 95, content: '', id: KR2a0033_ZHSJ_065-1012a}
+  - {type: xml-element, offset: 95, content: '', id: KR2a0033_ZHSJ_065-bkkxmlele4}
+  - {type: xml-element, offset: 95, content: '', id: KR2a0033_ZHSJ_065-d65n1}
+  - {type: xml-element, offset: 95, content: '', id: KR2a0033_ZHSJ_065-d65n1_end}
+  - {type: variant, offset: 95, length: 0, content: '', WYG: 遼史卷六十五遼史卷六十五考證公主表睿智皇后生三女按刻本舊作睿聖皇后考景宗后諡睿智謹據改景宗四女長夀女下嫁宰相蕭巴雅爾延夀女下嫁蕭恒徳淑格下嫁盧俊改適蕭實訥按聖宗統和元年二月以皇女長夀公主下嫁國舅宰相蕭巴桑子烏里十月以公主淑格下嫁國舅詳衮兆古七年四月國舅太師蕭達為子巴雅爾請尚皇女延夀公主許之今考之表三人所適之名各不同當有舛誤遼史卷六十五考證}
+  - {type: page-break, offset: 95, content: '', id: KR2a0033_WYG_065-2a, image: WYG0289/WYG0289-0489c.png}
+  - {type: page-break, offset: 95, content: '', id: KR2a0033_WYG_065-3a, image: WYG0289/WYG0289-0490a.png}
+  - {type: page-break, offset: 95, content: '', id: KR2a0033_WYG_065-4a, image: WYG0289/WYG0289-0490c.png}
+  - {type: page-break, offset: 95, content: '', id: KR2a0033_WYG_065-5a, image: WYG0289/WYG0289-0491a.png}
+  - {type: page-break, offset: 95, content: '', id: KR2a0033_WYG_065-6a, image: WYG0289/WYG0289-0491c.png}
+  - {type: page-break, offset: 95, content: '', id: KR2a0033_WYG_065-7a, image: WYG0289/WYG0289-0492a.png}
+  - {type: page-break, offset: 95, content: '', id: KR2a0033_WYG_065-8a, image: WYG0289/WYG0289-0492c.png}
+  - {type: page-break, offset: 95, content: '', id: KR2a0033_WYG_065-8b, image: WYG0289/WYG0289-0492d.png}
+  - {type: page-break, offset: 95, content: '', id: KR2a0033_WYG_065-9a, image: WYG0289/WYG0289-0493a.png}
+  - {type: page-break, offset: 95, content: '', id: KR2a0033_WYG_065-9b, image: WYG0289/WYG0289-0493b.png}
+  - {type: variant, offset: 95, length: 0, content: '', krp: 遼史卷六十五遼史卷六十五考證公主表睿智皇后生三女按刻本舊作睿聖皇后考景宗后諡睿智謹據改景宗四女長夀女下嫁宰相蕭巴雅爾延夀女下嫁蕭恒徳淑格下嫁盧俊改適蕭實訥按聖宗統和元年二月以皇女長夀公主下嫁國舅宰相蕭巴桑子烏里十月以公主淑格下嫁國舅詳衮兆古七年四月國舅太師蕭達為子巴雅爾請尚皇女延夀公主許之今考之表三人所適之名各不同當有舛誤遼史卷六十五考證}
+  back: []
+hash: sha256:4ffd4b6f426fcd7bdb270af8c245345292ad8b5358c3f8231a2af301de5cd128

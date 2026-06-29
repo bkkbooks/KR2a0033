@@ -1,0 +1,18 @@
+canonical_identifier: bkk:krp/KR2a0033/zhsj/v1/juan/65
+seq: 65
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 遼史卷六十五表第三公主表春秋之法王姬下嫁書于策以魯公同姓之國為之婚主故爾古者婦諱不出門內言不出梱公主悉列于傳非禮也然遼國專任外戚公主多見紀傳間不得不表見之禮男女異長不當與皇子同列別為公主附表
+  hash: sha256:349ddcbdf540a58c8aeb8efff2bae8df90425bf38a85ef0f48492c9489c93541
+  markers:
+  - {type: 'tls:head', offset: 0, content: '', id: KR2a0033_ZHSJ_065-d65h1s1}
+metadata:
+  title: 遼書
+  edition:
+    short: zhsj
+  source:
+    repository: tls-texts
+    path: data/tls/KR2a0033.xml
+hash: sha256:7a98f2ba8985680e3d52378483e48e1aeab692c65b8d3a1e7f40ca37111d984b

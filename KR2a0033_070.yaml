@@ -1,0 +1,18 @@
+canonical_identifier: bkk:krp/KR2a0033/zhsj/v1/juan/70
+seq: 70
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 遼史卷七十表第八屬國表周有天下不期而會者八百餘國遼居松漠最為強盛天命有歸建國改元號令法度皆遵漢制命將出師臣服諸國人民皆入版籍貢賦悉輸內帑東西朔南何啻萬里視古起百里國而致太平之業者亦幾矣故有遼之盛不可不著作屬國表
+  hash: sha256:306cab54fdb0165fe547b8404ca7eabd52b6476cc2c2934e232ab911c456b58e
+  markers:
+  - {type: 'tls:head', offset: 0, content: '', id: KR2a0033_ZHSJ_070-d70h1s1}
+metadata:
+  title: 遼書
+  edition:
+    short: zhsj
+  source:
+    repository: tls-texts
+    path: data/tls/KR2a0033.xml
+hash: sha256:2aed28c87a88b0c68c93cf802d2d7bafcd5f0bd1a50db6c1704b944c005a5691

@@ -1,0 +1,18 @@
+canonical_identifier: bkk:krp/KR2a0033/zhsj/v1/juan/69
+seq: 69
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 遼史卷六十九表第七部族表司馬遷作史記四裔於篇末秦漢以降各有其國彼疆此界道里云邈不能混一寰宇周知種落鄰國聘貢往來焉能歷覽或口傳意記模寫梗概耳遼接五代漢地遠近載諸簡冊可考西北沙漠之地樹藝五穀衣服車馬禮文制度文為土産品物得其粗而失其精部落之名姓氏之號得其音而未得其字歷代踵訛艱於考索遼氏與諸部相通往來朝貢及西遼所至之地見於紀傳亦豈少也哉其事則書於紀部族則列於表云天祚播越耶律大石立燕晉國王淳淳死與蕭妃奔天德軍上誅妃責大石大石率衆西去自立為帝所歷諸部附見于後
+  hash: sha256:6bce687a24866cd08d6c2b97593b25b4c28ed594a53e1c3ae6e322936a56663a
+  markers:
+  - {type: 'tls:head', offset: 0, content: '', id: KR2a0033_ZHSJ_069-d69h1s1}
+metadata:
+  title: 遼書
+  edition:
+    short: zhsj
+  source:
+    repository: tls-texts
+    path: data/tls/KR2a0033.xml
+hash: sha256:280f78065897338cd83844da74eef27a4744decca7610fd60155ea7804c4b361
