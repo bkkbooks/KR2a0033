@@ -90,7 +90,6 @@ markers:
   - {type: 'tls:seg', offset: 119, content: '', id: KR2a0033_ZHSJ_026-d26p5s5}
   - {type: punctuation, offset: 121, content: ，, id: KR2a0033_ZHSJ_026-bkkpn23}
   - {type: 'tls:seg', offset: 121, content: '', id: KR2a0033_ZHSJ_026-d26p5s6}
-  - {type: substitution, offset: 121, original: 錄, replacement: 録, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-4560}}
   - {type: line-break, offset: 127, content: '', id: ZHSJ__dup3537}
   - {type: punctuation, offset: 129, content: ．, id: KR2a0033_ZHSJ_026-bkkpn24}
   - {type: xml-element, offset: 129, content: '', id: KR2a0033_ZHSJ_026-bkkxmlele10}
@@ -118,7 +117,6 @@ markers:
   - {type: punctuation, offset: 161, content: ，, id: KR2a0033_ZHSJ_026-bkkpn28}
   - {type: 'tls:seg', offset: 161, content: '', id: KR2a0033_ZHSJ_026-d26p6s5}
   - {type: line-break, offset: 162, content: '', id: ZHSJ__dup3539}
-  - {type: substitution, offset: 162, original: 陣, replacement: 陳, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-4111}}
   - {type: punctuation, offset: 166, content: ．, id: KR2a0033_ZHSJ_026-bkkpn29}
   - {type: 'tls:seg', offset: 166, content: '', id: KR2a0033_ZHSJ_026-d26p6s6}
   - {type: punctuation, offset: 168, content: ，, id: KR2a0033_ZHSJ_026-bkkpn30}
@@ -238,7 +236,6 @@ markers:
   - {type: 'tls:seg', offset: 290, content: '', id: KR2a0033_ZHSJ_026-d26p9s4}
   - {type: variant, offset: 293, length: 1, content: 砲, WYG: 礟}
   - {type: variant, offset: 293, length: 1, content: 砲, krp: 礟}
-  - {type: substitution, offset: 293, original: 砲, replacement: 炮, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-0798}}
   - {type: punctuation, offset: 295, content: 、, id: KR2a0033_ZHSJ_026-bkkpn52}
   - {type: variant, offset: 297, length: 1, content: 教, WYG: 敎}
   - {type: variant, offset: 297, length: 1, content: 教, krp: 敎}
@@ -270,7 +267,6 @@ markers:
   - {type: 'tls:seg', offset: 359, content: '', id: KR2a0033_ZHSJ_026-d26p10s8}
   - {type: punctuation, offset: 361, content: ，, id: KR2a0033_ZHSJ_026-bkkpn61}
   - {type: 'tls:seg', offset: 361, content: '', id: KR2a0033_ZHSJ_026-d26p10s9}
-  - {type: substitution, offset: 361, original: 錄, replacement: 録, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-4560}}
   - {type: variant, offset: 363, length: 1, content: 阻, WYG: 準}
   - {type: variant, offset: 363, length: 1, content: 阻, krp: 準}
   - {type: variant, offset: 364, length: 1, content: 卜, WYG: 布}
@@ -608,7 +604,6 @@ markers:
   - {type: variant, offset: 758, length: 1, content: 哥, krp: 格}
   - {type: variant, offset: 763, length: 1, content: 衞, WYG: 衛}
   - {type: variant, offset: 763, length: 1, content: 衞, krp: 衛}
-  - {type: substitution, offset: 763, original: 衞, replacement: 衛, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3699}}
   - {type: punctuation, offset: 767, content: ，, id: KR2a0033_ZHSJ_026-bkkpn139}
   - {type: 'tls:seg', offset: 767, content: '', id: KR2a0033_ZHSJ_026-d26p26s6}
   - {type: page-break, offset: 769, content: '', id: KR2a0033_ZHSJ_026-0310a}
@@ -1157,7 +1152,6 @@ markers:
   - {type: punctuation, offset: 1560, content: ，, id: KR2a0033_ZHSJ_026-bkkpn271}
   - {type: 'tls:seg', offset: 1560, content: '', id: KR2a0033_ZHSJ_026-d26p51s2}
   - {type: punctuation, offset: 1562, content: 、, id: KR2a0033_ZHSJ_026-bkkpn272}
-  - {type: substitution, offset: 1564, original: 糺, replacement: 糾, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-0131}}
   - {type: punctuation, offset: 1565, content: ．, id: KR2a0033_ZHSJ_026-bkkpn273}
   - {type: 'tls:seg', offset: 1565, content: '', id: KR2a0033_ZHSJ_026-d26p51s3}
   - {type: punctuation, offset: 1567, content: ，, id: KR2a0033_ZHSJ_026-bkkpn274}
@@ -1612,4 +1606,4 @@ markers:
   - {type: page-break, offset: 2346, content: '', id: KR2a0033_WYG_026-9b, image: WYG0289/WYG0289-0177d.png}
   - {type: variant, offset: 2346, length: 0, content: '', krp: 遼史卷二十六遼史卷二十六考證壽隆元年夏四月乙亥三年二月丙辰朔閏月丙午五年春正月乙丑六年十一月壬申按厯象志朔考壽隆元年四月丙寅朔三年二月丙辰朔閏月丙戌朔五年正月甲辰朔六年十一月癸亥朔原文乙亥訛己亥丙辰訛甲辰乙丑訛乙巳壬訛壬壬寅並以干支推算改正至丙午為閏二月之二十一日史未書閏并増以知奚六部大王事和勒博為本部大王按和勒博舊作回離保此又作回里不係一人今畫一改遼史卷二十六考證}
   back: []
-hash: sha256:f947f0c59b71f90560506a4c0366ad9cac2c6f3cfda895c8c40037fdff95223b
+hash: sha256:2c7ae59ea00350430621e1026e7c9c6f8192664f28f710d87ad622e1fa8c4663
