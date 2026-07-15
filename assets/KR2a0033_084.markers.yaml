@@ -50,6 +50,7 @@ markers:
   - {type: variant, offset: 44, length: 1, content: 曆, krp: 厯}
   - {type: punctuation, offset: 46, content: ，, id: KR2a0033_ZHSJ_084-bkkpn6}
   - {type: 'tls:seg', offset: 46, content: '', id: KR2a0033_ZHSJ_084-d84p2s5}
+  - {type: substitution, offset: 46, original: 累, replacement: 纍, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20807}}
   - {type: page-break, offset: 51, content: '', id: KR2a0033_WYG_084-1b, image: WYG0289/WYG0289-0616d.png}
   - {type: punctuation, offset: 52, content: ．, id: KR2a0033_ZHSJ_084-bkkpn7}
   - {type: 'tls:seg', offset: 52, content: '', id: KR2a0033_ZHSJ_084-d84p2s6}
@@ -172,6 +173,7 @@ markers:
   - {type: variant, offset: 220, length: 1, content: 乘, krp: 乗}
   - {type: variant, offset: 221, length: 1, content: 銳, WYG: 鋭}
   - {type: variant, offset: 221, length: 1, content: 銳, krp: 鋭}
+  - {type: substitution, offset: 221, original: 銳, replacement: 鋭, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20839}}
   - {type: punctuation, offset: 224, content: ，, id: KR2a0033_ZHSJ_084-bkkpn38}
   - {type: 'tls:seg', offset: 224, content: '', id: KR2a0033_ZHSJ_084-d84p4s6}
   - {type: line-break, offset: 228, content: '', id: ZHSJ__dup12264}
@@ -289,6 +291,7 @@ markers:
   - {type: variant, offset: 405, length: 1, content: 乘, krp: 乗}
   - {type: variant, offset: 406, length: 1, content: 銳, WYG: 鋭}
   - {type: variant, offset: 406, length: 1, content: 銳, krp: 鋭}
+  - {type: substitution, offset: 406, original: 銳, replacement: 鋭, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20839}}
   - {type: punctuation, offset: 409, content: ，, id: KR2a0033_ZHSJ_084-bkkpn79}
   - {type: 'tls:seg', offset: 409, content: '', id: KR2a0033_ZHSJ_084-d84p7s9}
   - {type: variant, offset: 412, length: 1, content: 翊, WYG: 翌}
@@ -678,6 +681,7 @@ markers:
   - {type: 'tls:seg', offset: 891, content: '', id: KR2a0033_ZHSJ_084-d84p16s19}
   - {type: variant, offset: 896, length: 1, content: 衞, WYG: 衛}
   - {type: variant, offset: 896, length: 1, content: 衞, krp: 衛}
+  - {type: substitution, offset: 896, original: 衞, replacement: 衛, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-19982}}
   - {type: punctuation, offset: 903, content: ．, id: KR2a0033_ZHSJ_084-bkkpn184}
   - {type: 'tls:seg', offset: 903, content: '', id: KR2a0033_ZHSJ_084-d84p16s20}
   - {type: punctuation, offset: 906, content: ．, id: KR2a0033_ZHSJ_084-bkkpn185}
@@ -687,6 +691,7 @@ markers:
   - {type: line-break, offset: 906, content: '', id: ZHSJ__dup12292}
   - {type: punctuation, offset: 910, content: ，, id: KR2a0033_ZHSJ_084-bkkpn186}
   - {type: 'tls:seg', offset: 910, content: '', id: KR2a0033_ZHSJ_084-d84p17s2}
+  - {type: substitution, offset: 912, original: 昇, replacement: 升, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-16205}}
   - {type: punctuation, offset: 913, content: ，, id: KR2a0033_ZHSJ_084-bkkpn187}
   - {type: 'tls:seg', offset: 913, content: '', id: KR2a0033_ZHSJ_084-d84p17s3}
   - {type: punctuation, offset: 920, content: ．, id: KR2a0033_ZHSJ_084-bkkpn188}
@@ -700,6 +705,7 @@ markers:
   - {type: 'tls:seg', offset: 929, content: '', id: KR2a0033_ZHSJ_084-d84p18s2}
   - {type: variant, offset: 932, length: 1, content: 衞, WYG: 衛}
   - {type: variant, offset: 932, length: 1, content: 衞, krp: 衛}
+  - {type: substitution, offset: 932, original: 衞, replacement: 衛, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-19982}}
   - {type: punctuation, offset: 936, content: ，, id: KR2a0033_ZHSJ_084-bkkpn191}
   - {type: 'tls:seg', offset: 936, content: '', id: KR2a0033_ZHSJ_084-d84p18s3}
   - {type: punctuation, offset: 943, content: ．, id: KR2a0033_ZHSJ_084-bkkpn192}
@@ -715,6 +721,7 @@ markers:
   - {type: 'tls:seg', offset: 978, content: '', id: KR2a0033_ZHSJ_084-d84p18s8}
   - {type: variant, offset: 978, length: 1, content: 歛, WYG: 斂}
   - {type: variant, offset: 978, length: 1, content: 歛, krp: 斂}
+  - {type: substitution, offset: 978, original: 歛, replacement: 斂, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-17333}}
   - {type: punctuation, offset: 981, content: ．, id: KR2a0033_ZHSJ_084-bkkpn197}
   - {type: 'tls:seg', offset: 981, content: '', id: KR2a0033_ZHSJ_084-d84p18s9}
   - {type: punctuation, offset: 984, content: ，, id: KR2a0033_ZHSJ_084-bkkpn198}
@@ -905,6 +912,7 @@ markers:
   - {type: 'tls:seg', offset: 1217, content: '', id: KR2a0033_ZHSJ_084-d84p23s4}
   - {type: variant, offset: 1219, length: 1, content: 閑, WYG: 閒}
   - {type: variant, offset: 1219, length: 1, content: 閑, krp: 閒}
+  - {type: substitution, offset: 1219, original: 閑, replacement: 間, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20377}}
   - {type: punctuation, offset: 1220, content: ，, id: KR2a0033_ZHSJ_084-bkkpn253}
   - {type: 'tls:seg', offset: 1220, content: '', id: KR2a0033_ZHSJ_084-d84p23s5}
   - {type: punctuation, offset: 1227, content: ．, id: KR2a0033_ZHSJ_084-bkkpn254}
@@ -1030,4 +1038,4 @@ markers:
   - {type: page-break, offset: 1392, content: '', id: KR2a0033_WYG_084-6b, image: WYG0289/WYG0289-0619b.png}
   - {type: variant, offset: 1392, length: 0, content: '', krp: 遼史卷八十四遼史卷八十四考證蕭斡傳時皇后以父呼斡按本傳載后為皇太后稱制葢睿智皇后也考外戚表睿智皇后父思温係蕭氏第二世斡係第三世固后兄弟行也而以父呼斡殊不可解蕭托果傳尚朴謹公主按公主表並無朴謹公主外戚表亦止稱托果為平章政事不稱駙馬都尉疑朴謹公主非皇女也遼史卷八十四考證}
   back: []
-hash: sha256:22febc08f627da61874667da273a140d1004f12e41a7ab93276eba500d59baa4
+hash: sha256:1ff19d4c9d75c13f157566f87f1aad022b9df86d4f531e49e86a861b61cf63c6

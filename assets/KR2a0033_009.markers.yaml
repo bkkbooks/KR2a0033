@@ -122,6 +122,7 @@ markers:
   - {type: line-break, offset: 173, content: '', id: ZHSJ__dup1165}
   - {type: punctuation, offset: 178, content: ，, id: KR2a0033_ZHSJ_009-bkkpn31}
   - {type: 'tls:seg', offset: 178, content: '', id: KR2a0033_ZHSJ_009-d9p9s2}
+  - {type: substitution, offset: 182, original: 党, replacement: 黨, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-17122}}
   - {type: variant, offset: 186, length: 1, content: 可, WYG: 克}
   - {type: variant, offset: 186, length: 1, content: 可, krp: 克}
   - {type: variant, offset: 187, length: 1, content: 醜, WYG: 酬}
@@ -423,6 +424,7 @@ markers:
   - {type: 'tls:seg', offset: 567, content: '', id: KR2a0033_ZHSJ_009-d9p23s9}
   - {type: variant, offset: 571, length: 1, content: 衞, WYG: 衛}
   - {type: variant, offset: 571, length: 1, content: 衞, krp: 衛}
+  - {type: substitution, offset: 571, original: 衞, replacement: 衛, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-19982}}
   - {type: punctuation, offset: 576, content: ●, id: KR2a0033_ZHSJ_009-bkkpn108}
   - {type: punctuation, offset: 576, content: 、, id: KR2a0033_ZHSJ_009-bkkpn109}
   - {type: variant, offset: 576, length: 0, content: '', WYG: 侼}
@@ -649,6 +651,7 @@ markers:
   - {type: variant, offset: 904, length: 9, content: 阻卜惕隱曷魯夷離菫, WYG: 準布特哩衮嚇嚕額爾奇木}
   - {type: variant, offset: 904, length: 9, content: 阻卜惕隱曷魯夷離菫, krp: 準布特哩衮嚇嚕額爾奇木}
   - {type: punctuation, offset: 910, content: 、, id: KR2a0033_ZHSJ_009-bkkpn175}
+  - {type: substitution, offset: 912, original: 菫, replacement: 堇, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20765}}
   - {type: variant, offset: 914, length: 3, content: 里覩等, WYG: 爾圖}
   - {type: variant, offset: 914, length: 3, content: 里覩等, krp: 爾圖}
   - {type: punctuation, offset: 919, content: ．, id: KR2a0033_ZHSJ_009-bkkpn176}
@@ -873,6 +876,7 @@ markers:
   - {type: variant, offset: 1256, length: 1, content: 化, krp: 華}
   - {type: variant, offset: 1257, length: 1, content: 哥, WYG: 格}
   - {type: variant, offset: 1257, length: 1, content: 哥, krp: 格}
+  - {type: substitution, offset: 1261, original: 党, replacement: 黨, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-17122}}
   - {type: punctuation, offset: 1264, content: ．, id: KR2a0033_ZHSJ_009-bkkpn237}
   - {type: xml-element, offset: 1264, content: '', id: KR2a0033_ZHSJ_009-bkkxmlele72}
   - {type: xml-element, offset: 1264, content: '', id: KR2a0033_ZHSJ_009-bkkxmlele73}
@@ -922,6 +926,7 @@ markers:
   - {type: variant, offset: 1317, length: 1, content: 王, krp: 旺}
   - {type: variant, offset: 1318, length: 1, content: 六, WYG: 祿}
   - {type: variant, offset: 1318, length: 1, content: 六, krp: 祿}
+  - {type: substitution, offset: 1321, original: 党, replacement: 黨, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-17122}}
   - {type: punctuation, offset: 1324, content: ．, id: KR2a0033_ZHSJ_009-bkkpn251}
   - {type: xml-element, offset: 1324, content: '', id: KR2a0033_ZHSJ_009-bkkxmlele82}
   - {type: xml-element, offset: 1324, content: '', id: KR2a0033_ZHSJ_009-bkkxmlele83}
@@ -1008,6 +1013,7 @@ markers:
   - {type: 'tls:seg', offset: 1443, content: '', id: KR2a0033_ZHSJ_009-d9p44s9}
   - {type: punctuation, offset: 1445, content: ，, id: KR2a0033_ZHSJ_009-bkkpn278}
   - {type: 'tls:seg', offset: 1445, content: '', id: KR2a0033_ZHSJ_009-d9p44s10}
+  - {type: substitution, offset: 1447, original: 陣, replacement: 陳, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20393}}
   - {type: punctuation, offset: 1451, content: ，, id: KR2a0033_ZHSJ_009-bkkpn279}
   - {type: 'tls:seg', offset: 1451, content: '', id: KR2a0033_ZHSJ_009-d9p44s11}
   - {type: line-break, offset: 1452, content: '', id: ZHSJ__dup1222}
@@ -1280,6 +1286,7 @@ markers:
   - {type: punctuation, offset: 1834, content: ：, id: KR2a0033_ZHSJ_009-bkkpn359}
   - {type: punctuation, offset: 1840, content: ，, id: KR2a0033_ZHSJ_009-bkkpn360}
   - {type: 'tls:seg', offset: 1840, content: '', id: KR2a0033_ZHSJ_009-d9p60s2}
+  - {type: substitution, offset: 1841, original: 冊, replacement: 册, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-16267}}
   - {type: punctuation, offset: 1842, content: 、, id: KR2a0033_ZHSJ_009-bkkpn361}
   - {type: variant, offset: 1842, length: 1, content: 會, WYG: 㑹}
   - {type: variant, offset: 1842, length: 1, content: 會, krp: 㑹}
@@ -1348,4 +1355,4 @@ markers:
   - {type: page-break, offset: 1949, content: '', id: KR2a0033_WYG_009-8b, image: WYG0289/WYG0289-0079d.png}
   - {type: variant, offset: 1949, length: 0, content: '', krp: 遼史巻九遼史巻九考證保寧九年七月宋遣使來聘按續通鑑綱目契丹遣耶律敞如宋㑹塟宋遣辛仲甫報之考契丹國志敞官鴻臚少卿遼史不書㑹塟之使又續資治通鑑長編宋史起居舍人辛仲甫如契丹右贊善大夫穆波副之又契丹志帝欲留仲甫仲甫不可厚禮遣還此失載宋史姓名乾亨元年十月韓匡嗣與宋兵戰于滿城敗績按契丹志秋九月攻鎮州為宋趙延進所敗考之李燾長編此即滿城之戰亦作九月俱與此異景宗在位十四年按原本訛十三年今改遼史巻九考證}
   back: []
-hash: sha256:9a401eda9e377acece7331f27f96113bc0e673f5e28f7115f83aef229fc35dd3
+hash: sha256:d6a9aa4eb2c74c1b6290a698a02d176d2ed0920983724e63b91a0585741e7cf9

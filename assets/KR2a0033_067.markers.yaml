@@ -131,6 +131,7 @@ markers:
   - {type: 'tls:seg', offset: 190, content: '', id: KR2a0033_ZHSJ_067-d67p3s19}
   - {type: punctuation, offset: 199, content: ，, id: KR2a0033_ZHSJ_067-bkkpn37}
   - {type: 'tls:seg', offset: 199, content: '', id: KR2a0033_ZHSJ_067-d67p3s20}
+  - {type: substitution, offset: 203, original: 冊, replacement: 册, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-16267}}
   - {type: line-break, offset: 208, content: '', id: ZHSJ__dup11064}
   - {type: variant, offset: 208, length: 1, content: 骨, WYG: 古}
   - {type: variant, offset: 208, length: 1, content: 骨, krp: 古}
@@ -171,4 +172,4 @@ markers:
   - {type: page-break, offset: 243, content: '', id: KR2a0033_WYG_067-7b, image: WYG0289/WYG0289-0502d.png}
   - {type: variant, offset: 243, length: 0, content: '', krp: 遼史卷六十七遼史卷六十七考證五世祖哈瑪爾北府宰相達魯按哈瑪爾為大父房最逺祖距達魯五世中間不可考原本列入第一世而以達魯為第二世實非父子也見達魯傳北院樞密使惠西北招討使慈氏努按蕭惠傳惠二子一為慈氏努其一為兀古匿終北府宰相表于慈氏努之次並未列入轉於下二格之旁列乙古蒲匿二名疑即兀古匿之訛然紀傳無可旁證今存其舊仍譯改為伊庫布尼二名以符體例使相薩瑪蘭陵郡王徳勒岱茂薩薩瑪原本作撒磨按徳勒岱傳又作撒鉢茂薩原本作磨撒按本傳又作麽撒今畫一改訂宰相塔喇按蕭迪里傳迪里為塔喇四世孫表未列入而轉列和克及巴拉名按和克為迪里族子乃塔喇之五世孫巴拉為迪里弟乃和克之父行又不應與和克平列舛訛叠出今附考以識其訛南院樞密使朴按蕭朴子多喇官國舅部詳衮見朴傳表未列入殊畧遼史卷六十七考證}
   back: []
-hash: sha256:98db54ecdfce711163eebcf4e492479f5a6df2c95fcb8747b4d8757406654ede
+hash: sha256:e897ea0ee1495bb01858978ac7340e7473f10a04ce610a4a1af929ce0a85a345

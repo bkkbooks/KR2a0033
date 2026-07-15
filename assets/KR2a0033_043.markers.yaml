@@ -319,6 +319,7 @@ markers:
   - {type: punctuation, offset: 287, content: (, id: KR2a0033_ZHSJ_043-bkkpn60}
   - {type: punctuation, offset: 290, content: ), id: KR2a0033_ZHSJ_043-bkkpn61}
   - {type: line-break, offset: 290, content: '', id: ZHSJ__dup6263}
+  - {type: substitution, offset: 290, original: 冊, replacement: 册, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-16267}}
   - {type: line-break, offset: 293, content: '', id: ZHSJ__dup6264}
   - {type: indent, offset: 296, content: 　, id: KR2a0033_ZHSJ_043-bkkind109}
   - {type: indent, offset: 296, content: 　, id: KR2a0033_ZHSJ_043-bkkind110}
@@ -2325,4 +2326,4 @@ markers:
   - {type: xml-element, offset: 782, content: '', id: KR2a0033_ZHSJ_043-d43n1}
   - {type: xml-element, offset: 782, content: '', id: KR2a0033_ZHSJ_043-d43n1_end}
   back: []
-hash: sha256:c1cbac31709a890830a128846724511bd85f91e61c81b74beb623e5a8e9a7210
+hash: sha256:57070cd4ae595b945de8f1ecd7813dc6b1a92dd8324c4c5e6bba4f1f5f1f8b59
