@@ -1321,6 +1321,7 @@ markers:
   - {type: punctuation, offset: 1936, content: (, id: KR2a0033_ZHSJ_063-bkkpn370}
   - {type: variant, offset: 1936, length: 23, content: 韓愈作可突干劉昫宋祁及唐會要皆作可突于鬱于娑固, WYG: 裕允繅古}
   - {type: variant, offset: 1936, length: 23, content: 韓愈作可突干劉昫宋祁及唐會要皆作可突于鬱于娑固, krp: 裕允繅古}
+  - {type: voice, offset: 1936, length: 19, name: note, id: n1}
   - {type: punctuation, offset: 1942, content: ，, id: KR2a0033_ZHSJ_063-bkkpn371}
   - {type: 'tls:seg', offset: 1942, content: '', id: KR2a0033_ZHSJ_063-d63p6s263}
   - {type: line-break, offset: 1943, content: '', id: ZHSJ__dup10997}
@@ -1811,6 +1812,7 @@ markers:
   - {type: punctuation, offset: 2534, content: (, id: KR2a0033_ZHSJ_063-bkkpn493}
   - {type: variant, offset: 2534, length: 8, content: 高麗古今錄作屈戌, WYG: ''}
   - {type: variant, offset: 2534, length: 8, content: 高麗古今錄作屈戌, krp: ''}
+  - {type: voice, offset: 2534, length: 8, name: note, id: n2}
   - {type: substitution, offset: 2538, original: 錄, replacement: 録, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20840}}
   - {type: line-break, offset: 2540, content: '', id: ZHSJ__dup11023}
   - {type: punctuation, offset: 2542, content: ．, id: KR2a0033_ZHSJ_063-bkkpn494}
@@ -2029,4 +2031,4 @@ markers:
   - {type: variant, offset: 2755, length: 0, content: '', WYG: 遼史卷六十三}
   - {type: variant, offset: 2755, length: 0, content: '', krp: 遼史卷六十三}
   back: []
-hash: sha256:5b4e442601b4f3d248aee79183376a59eded76d1441750217a3c9e56f891ec79
+hash: sha256:59b466d8ca2a584aef0d6be265007dfa0b4ec636cce70258187b8f41cea024b9

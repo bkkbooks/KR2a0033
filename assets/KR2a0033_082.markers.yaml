@@ -17,6 +17,7 @@ markers:
   - {type: punctuation, offset: 15, content: (, id: KR2a0033_ZHSJ_082-bkkpn1}
   - {type: variant, offset: 15, length: 1, content: 德, WYG: 徳}
   - {type: variant, offset: 15, length: 1, content: 德, krp: 徳}
+  - {type: voice, offset: 15, length: 6, name: note, id: n1}
   - {type: indent, offset: 17, content: 　, id: KR2a0033_ZHSJ_082-bkkind1}
   - {type: variant, offset: 17, length: 1, content: 滌, WYG: 逹}
   - {type: variant, offset: 17, length: 1, content: 滌, krp: 逹}
@@ -44,6 +45,7 @@ markers:
   - {type: punctuation, offset: 38, content: (, id: KR2a0033_ZHSJ_082-bkkpn3}
   - {type: variant, offset: 38, length: 1, content: 磨, WYG: 穆}
   - {type: variant, offset: 38, length: 1, content: 磨, krp: 穆}
+  - {type: voice, offset: 38, length: 3, name: note, id: n2}
   - {type: variant, offset: 39, length: 1, content: 魯, WYG: 爾}
   - {type: variant, offset: 39, length: 1, content: 魯, krp: 爾}
   - {type: punctuation, offset: 41, content: ), id: KR2a0033_ZHSJ_082-bkkpn4}
@@ -1690,4 +1692,4 @@ markers:
   - {type: page-break, offset: 2396, content: '', id: KR2a0033_WYG_082-9b, image: WYG0289/WYG0289-0611d.png}
   - {type: variant, offset: 2396, length: 0, content: '', krp: 遼史卷八十二遼史卷八十二考證蕭揚阿克傳按蕭揚阿克父約音努終五番部節度使有傳見後列傳第二十六而揚阿克反居父前史殊疎舛傳論若巴古濟之忠按巴古濟原文勃古哲此處止稱勃古二字今併改遼史卷八十二考證}
   back: []
-hash: sha256:483d85aa0d03d11042747c0eebf916fd837d8608f3fab40b62cc5aea5588267b
+hash: sha256:3bd935dfc964a43bedf8116d52d4dfdfae735ad425906533ffa819ebcb4d0c55

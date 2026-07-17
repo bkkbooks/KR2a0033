@@ -25,6 +25,7 @@ markers:
   - {type: variant, offset: 22, length: 1, content: 哲, WYG: 展}
   - {type: variant, offset: 22, length: 1, content: 哲, krp: 展}
   - {type: punctuation, offset: 23, content: (, id: KR2a0033_ZHSJ_091-bkkpn1}
+  - {type: voice, offset: 23, length: 3, name: note, id: n1}
   - {type: variant, offset: 25, length: 1, content: 奴, WYG: 努}
   - {type: variant, offset: 25, length: 1, content: 奴, krp: 努}
   - {type: punctuation, offset: 26, content: ), id: KR2a0033_ZHSJ_091-bkkpn2}
@@ -1108,4 +1109,4 @@ markers:
   - {type: page-break, offset: 1484, content: '', id: KR2a0033_WYG_091-6b, image: WYG0289/WYG0289-0646d.png}
   - {type: variant, offset: 1484, length: 0, content: '', krp: 遼史卷九十一遼史卷九十一考證耶律唐古傳歴壕州刺史按壕州刻本舊作豪州考地理志壕州在顯州東北二十里又按營衛志亦有壕州之名謹据改重熈四年上疏不報是年致仕按𢎞簡録重熈十四年唐大為右伊勒希巴興宗本紀則係十七年事是唐古致仕當在十七年之後且嘗為伊勒希巴也傳有脱訛遼史卷九十一考證}
   back: []
-hash: sha256:f10c087357ab3443ea350191d0624bc58f5aff18206a70a484d1e6456bbd142f
+hash: sha256:7e8a82f2407ae6762ea888a99d2a60cdde1b88088cb786e23a44335e8a708bd3

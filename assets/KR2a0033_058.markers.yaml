@@ -668,6 +668,7 @@ markers:
   - {type: punctuation, offset: 1212, content: ，, id: KR2a0033_ZHSJ_058-bkkpn212}
   - {type: 'tls:seg', offset: 1212, content: '', id: KR2a0033_ZHSJ_058-d58p25s45}
   - {type: punctuation, offset: 1218, content: (, id: KR2a0033_ZHSJ_058-bkkpn213}
+  - {type: voice, offset: 1218, length: 4, name: note, id: n1}
   - {type: punctuation, offset: 1222, content: ), id: KR2a0033_ZHSJ_058-bkkpn214}
   - {type: punctuation, offset: 1222, content: ，, id: KR2a0033_ZHSJ_058-bkkpn215}
   - {type: 'tls:seg', offset: 1222, content: '', id: KR2a0033_ZHSJ_058-d58p25s46}
@@ -728,6 +729,7 @@ markers:
   - {type: punctuation, offset: 1348, content: (, id: KR2a0033_ZHSJ_058-bkkpn238}
   - {type: variant, offset: 1348, length: 1, content: 內, WYG: 内}
   - {type: variant, offset: 1348, length: 1, content: 內, krp: 内}
+  - {type: voice, offset: 1348, length: 4, name: note, id: n2}
   - {type: variant, offset: 1350, length: 1, content: 內, WYG: 内}
   - {type: variant, offset: 1350, length: 1, content: 內, krp: 内}
   - {type: punctuation, offset: 1352, content: ), id: KR2a0033_ZHSJ_058-bkkpn239}
@@ -798,4 +800,4 @@ markers:
   - {type: page-break, offset: 1499, content: '', id: KR2a0033_WYG_058-7b, image: WYG0289/WYG0289-0456d.png}
   - {type: variant, offset: 1499, length: 0, content: '', krp: 遼史卷五十八遼史卷五十八考證馳驅五京之間按地理志遼太宗以皇都為上京升幽州為南京改南京為東京聖宗城中京興宗升雲州為西京葢以是為五京云約尼末主遺制迎十二神纛天子旗鼓置太祖帳前原文太祖訛太子據下漢仗文云約尼致纛於太祖帳前則子為祖字之誤伊徳實伊徳實原文作寅底石此又作匀徳實今畫一改遼史卷五十八考證}
   back: []
-hash: sha256:7e8854c73d5e26dde8ef628ad41b9cc4feccea0e11b71801fdb4d78a790e1d41
+hash: sha256:8fc2f09c4786dca568942e811fda9f83f9aff82a2ca7d535a125afdcc43c504d

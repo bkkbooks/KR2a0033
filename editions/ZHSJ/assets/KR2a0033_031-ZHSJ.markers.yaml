@@ -883,6 +883,7 @@ markers:
   - {type: line-break, offset: 1551, content: '', id: ZHSJ__dup4265, _xml_error: duplicate-id, _xml_original_id: ZHSJ_}
   - {type: punctuation, offset: 1553, content: ：, id: KR2a0033_ZHSJ_031-bkkpn384}
   - {type: punctuation, offset: 1554, content: (, id: KR2a0033_ZHSJ_031-bkkpn385}
+  - {type: voice, offset: 1554, length: 2, name: note, id: n1}
   - {type: punctuation, offset: 1556, content: ．, id: KR2a0033_ZHSJ_031-bkkpn386}
   - {type: 'tls:seg', offset: 1556, content: '', id: KR2a0033_ZHSJ_031-d31p52s2}
   - {type: punctuation, offset: 1556, content: ), id: KR2a0033_ZHSJ_031-bkkpn387}
@@ -1002,9 +1003,11 @@ markers:
   - {type: punctuation, offset: 1775, content: 、, id: KR2a0033_ZHSJ_031-bkkpn437}
   - {type: punctuation, offset: 1776, content: 、, id: KR2a0033_ZHSJ_031-bkkpn438}
   - {type: punctuation, offset: 1777, content: (, id: KR2a0033_ZHSJ_031-bkkpn439}
+  - {type: voice, offset: 1777, length: 2, name: note, id: n2}
   - {type: punctuation, offset: 1779, content: 、, id: KR2a0033_ZHSJ_031-bkkpn440}
   - {type: punctuation, offset: 1779, content: ), id: KR2a0033_ZHSJ_031-bkkpn441}
   - {type: punctuation, offset: 1780, content: (, id: KR2a0033_ZHSJ_031-bkkpn442}
+  - {type: voice, offset: 1780, length: 2, name: note, id: n3}
   - {type: punctuation, offset: 1782, content: ), id: KR2a0033_ZHSJ_031-bkkpn443}
   - {type: punctuation, offset: 1782, content: 、, id: KR2a0033_ZHSJ_031-bkkpn444}
   - {type: punctuation, offset: 1783, content: ．, id: KR2a0033_ZHSJ_031-bkkpn445}
@@ -1525,4 +1528,4 @@ markers:
   - {type: xml-element, offset: 2693, content: '', id: KR2a0033_ZHSJ_031-d31n1, name: note, role: open, attrs: {'xml:id': KR2a0033_ZHSJ_031-d31n1, type: text-crit}}
   - {type: xml-element, offset: 2693, content: '', id: KR2a0033_ZHSJ_031-d31n1_end, name: note, role: close, attrs: {'xml:id': KR2a0033_ZHSJ_031-d31n1, type: text-crit}}
   back: []
-hash: sha256:b5e7f5663fd71db7cceb176b68bbdf5706a41755b6e8bed9e3523925f15761da
+hash: sha256:8da2f049901ff22408a02ff3d15cf355fb9aedd0b044ea6a70e8c021549b685f

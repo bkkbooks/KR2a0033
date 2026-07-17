@@ -34,6 +34,7 @@ markers:
   - {type: variant, offset: 31, length: 1, content: 尚, WYG: 善}
   - {type: variant, offset: 31, length: 1, content: 尚, krp: 善}
   - {type: punctuation, offset: 32, content: (, id: KR2a0033_ZHSJ_086-bkkpn1}
+  - {type: voice, offset: 32, length: 2, name: note, id: n1}
   - {type: variant, offset: 33, length: 1, content: 末, WYG: 黙}
   - {type: variant, offset: 33, length: 1, content: 末, krp: 黙}
   - {type: punctuation, offset: 34, content: ), id: KR2a0033_ZHSJ_086-bkkpn2}
@@ -1660,4 +1661,4 @@ markers:
   - {type: variant, offset: 2393, length: 0, content: '', WYG: 遼史卷八十六}
   - {type: variant, offset: 2393, length: 0, content: '', krp: 遼史卷八十六}
   back: []
-hash: sha256:69ddbe9547f3c637c9b6d94350c224e15cdc04ee13b07fb9bd8cf5d98b24615d
+hash: sha256:90cc5048aaca9784653ffd3b45441087eddb8bf942cf585d4fdfaf91a0c32fe8

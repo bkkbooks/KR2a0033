@@ -18,6 +18,7 @@ markers:
   - {type: variant, offset: 14, length: 1, content: 倍, WYG: 貝}
   - {type: variant, offset: 14, length: 1, content: 倍, krp: 貝}
   - {type: punctuation, offset: 15, content: (, id: KR2a0033_ZHSJ_072-bkkpn1}
+  - {type: voice, offset: 15, length: 9, name: note, id: n1}
   - {type: indent, offset: 20, content: 　, id: KR2a0033_ZHSJ_072-bkkind1}
   - {type: punctuation, offset: 24, content: ), id: KR2a0033_ZHSJ_072-bkkpn2}
   - {type: indent, offset: 24, content: 　, id: KR2a0033_ZHSJ_072-bkkind2}
@@ -26,6 +27,7 @@ markers:
   - {type: variant, offset: 29, length: 1, content: 胡, WYG: 呼}
   - {type: variant, offset: 29, length: 1, content: 胡, krp: 呼}
   - {type: punctuation, offset: 30, content: (, id: KR2a0033_ZHSJ_072-bkkpn3}
+  - {type: voice, offset: 30, length: 5, name: note, id: n2}
   - {type: punctuation, offset: 35, content: ), id: KR2a0033_ZHSJ_072-bkkpn4}
   - {type: line-break, offset: 35, content: '', id: ZHSJ__dup11233}
   - {type: indent, offset: 38, content: 　, id: KR2a0033_ZHSJ_072-bkkind3}
@@ -1951,4 +1953,4 @@ markers:
   - {type: page-break, offset: 2868, content: '', id: KR2a0033_WYG_072-11b, image: WYG0289/WYG0289-0566b.png}
   - {type: variant, offset: 2868, length: 0, content: '', krp: 遼史卷七十二遼史卷七十二考證宗室傳義宗傳小字托雲原本作圖欲五代歐史作突欲皆係音近之訛今併改善畫本國人物如射獵雪騎千鹿圖原本射字下衍騎字今刪五子長世宗次羅和稍隆先道隱按羅和入逆臣傳見卷一百十二目錄失載稍封吳王見景宗本紀而無傳原本稱各有傳係誤今刪順宗傳伊遜陰遣人殺之後知其寃原本後知其寃句上衍州字今刪遼史卷七十二考證}
   back: []
-hash: sha256:354fb5ddc3d7c58693032e04f60c5c80dc7663797e1a9ed4b48059502e84e808
+hash: sha256:eb5dc1e543082972d2f806e471f546b6b3662777e27bcebe20a60a00ae9c3038

@@ -17,6 +17,7 @@ markers:
   - {type: punctuation, offset: 16, content: (, id: KR2a0033_ZHSJ_096-bkkpn1}
   - {type: variant, offset: 16, length: 1, content: 撻, WYG: 托}
   - {type: variant, offset: 16, length: 1, content: 撻, krp: 托}
+  - {type: voice, offset: 16, length: 3, name: note, id: n1}
   - {type: variant, offset: 17, length: 1, content: 不, WYG: 卜}
   - {type: variant, offset: 17, length: 1, content: 不, krp: 卜}
   - {type: variant, offset: 18, length: 1, content: 也, WYG: 嘉}
@@ -2312,4 +2313,4 @@ markers:
   - {type: page-break, offset: 3286, content: '', id: KR2a0033_WYG_096-12b, image: WYG0289/WYG0289-0667b.png}
   - {type: variant, offset: 3286, length: 0, content: '', krp: 遼史卷九十六遼史卷九十六考證耶律仁先傳同知東京留守事十六年遷北院大王按興宗本紀重熙十二年仁先以北院樞密副使同知東京留守事傳作南京互異又十五年自契丹行宫都部署為南院大王十九年自南院大王知北院樞密使事是仁先未嘗為北院大王此以南院為北院又以十五年為十六年也耶律仁先傳清寜初為南院樞密使以耶律華格譖出為南京兵馬副元帥按道宗本紀清寜二年仁先為南院樞密使四年六月為北院樞密使十一月出為南京兵馬副元帥是仁先之出為南京兵馬副元帥係為北院樞密使時非為南院樞密使時也遼史卷九十六考證}
   back: []
-hash: sha256:d4e76096c76fb663561000dfec1683c4ee5a36b9853a69009a1c1fe7bc55805a
+hash: sha256:504a6a928c415d6a314bc2f44da4faadcffd1a4874a4594d5d6a3a931a3e376b

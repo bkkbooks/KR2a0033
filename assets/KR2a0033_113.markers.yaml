@@ -23,6 +23,7 @@ markers:
   - {type: indent, offset: 21, content: 　, id: KR2a0033_ZHSJ_113-bkkind2}
   - {type: indent, offset: 24, content: 　, id: KR2a0033_ZHSJ_113-bkkind3}
   - {type: punctuation, offset: 28, content: (, id: KR2a0033_ZHSJ_113-bkkpn1}
+  - {type: voice, offset: 28, length: 2, name: note, id: n1}
   - {type: punctuation, offset: 30, content: ), id: KR2a0033_ZHSJ_113-bkkpn2}
   - {type: line-break, offset: 30, content: '', id: ZHSJ__dup14314}
   - {type: indent, offset: 34, content: 　, id: KR2a0033_ZHSJ_113-bkkind4}
@@ -1734,4 +1735,4 @@ markers:
   - {type: page-break, offset: 2144, content: '', id: KR2a0033_WYG_113-8b, image: WYG0289/WYG0289-0723b.png}
   - {type: variant, offset: 2144, length: 0, content: '', krp: 遼史卷一百十三遼史卷一百十三考證復與公主以書結明主王安圖反明王安圖原文訛安圖今改正又朗傳朗祖阿古齊原文前作罨古只後又作罨谷只並畫一改榴格傳㑹同十年叔父安圖從帝伐晉以病先歸按遼太宗伐晉始於㑹同六年冬十二月是月即有命安圖等由滄恒易定分道進繼以大軍之詔越明年春安圖入雁門圍忻代是年遼晉相持冬復徴兵南伐明年春與晉數戰遼軍不利至㑹同九年冬十一月遼大敗晉軍晉將杜重威等率部衆降乃晉帝素服拜命是太宗親征由六年至九年而罷無九年以後事也又㑹同九年之明年改年大同元年傳稱㑹同十年尤非今仍原文而識其誤遼史卷一百十三考證}
   back: []
-hash: sha256:e7d9ca60a0c5e91e73ea3d49dffcf51ca1920910c62c3affb9c88ccda044a3e2
+hash: sha256:28c0648707a088da11984bc4b7e60dbe0829f84d240f2bde4092371b5624a90e

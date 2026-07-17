@@ -27,9 +27,11 @@ markers:
   - {type: variant, offset: 18, length: 1, content: 默, WYG: 黙}
   - {type: variant, offset: 18, length: 1, content: 默, krp: 黙}
   - {type: punctuation, offset: 20, content: (, id: KR2a0033_ZHSJ_074-bkkpn1}
+  - {type: voice, offset: 20, length: 2, name: note, id: n1}
   - {type: punctuation, offset: 22, content: ), id: KR2a0033_ZHSJ_074-bkkpn2}
   - {type: line-break, offset: 22, content: '', id: ZHSJ__dup11451}
   - {type: punctuation, offset: 25, content: (, id: KR2a0033_ZHSJ_074-bkkpn3}
+  - {type: voice, offset: 25, length: 8, name: note, id: n2}
   - {type: indent, offset: 27, content: 　, id: KR2a0033_ZHSJ_074-bkkind3}
   - {type: variant, offset: 28, length: 1, content: 勳, WYG: 芳}
   - {type: variant, offset: 28, length: 1, content: 勳, krp: 芳}
@@ -40,6 +42,7 @@ markers:
   - {type: punctuation, offset: 33, content: ), id: KR2a0033_ZHSJ_074-bkkpn4}
   - {type: indent, offset: 33, content: 　, id: KR2a0033_ZHSJ_074-bkkind6}
   - {type: punctuation, offset: 36, content: (, id: KR2a0033_ZHSJ_074-bkkpn5}
+  - {type: voice, offset: 36, length: 6, name: note, id: n3}
   - {type: indent, offset: 38, content: 　, id: KR2a0033_ZHSJ_074-bkkind7}
   - {type: variant, offset: 39, length: 1, content: 源, WYG: 原}
   - {type: variant, offset: 39, length: 1, content: 源, krp: 原}
@@ -1352,4 +1355,4 @@ markers:
   - {type: page-break, offset: 2010, content: '', id: KR2a0033_WYG_074-9b, image: WYG0289/WYG0289-0577b.png}
   - {type: variant, offset: 2010, length: 0, content: '', krp: 遼史卷七十四遼史卷七十四考證康黙記傳神冊五年為皇都伊勒希巴按太祖紀天顯元年遣額爾奇木康黙記攻長嶺府是黙記以伊勒希巴又為額爾奇木傳失載天祿五年六月河東使請行冊禮按世宗本紀天祿五年六月劉崇為周所攻稱姪乞援且求封冊帝遣使冊為漢帝原本訛作三年今據改韓知古傳遷政事令按百官志政事令太祖所置官興宗重熈十三年始改中書省韓知古之為令在太祖時則政事令也原本訛作中書今據改匡嗣傳旣而遥授晉昌軍節度使乾亨二年改西南面招討使卒按景宗紀乾亨元年匡嗣遥授晉昌軍節度使降封秦王傳失載其改西南面招討使紀作三年與傳亦互異德源傳保寧間官崇義興國二軍節度使保寧原本作統和按德源以乾亨初卒乾亨為景宗年號統和爲聖宗年號卒在先而事反在後矣又考德源父子兄弟俱早侍景宗邸其弟德讓德威德凝遷擢俱始於保寧德崇之子制心統和中亦為刺史德源為長兄不應於聖宗朝始仕其為保寧之訛無疑今據改德凝傳統和中累遷䕶衞太保都宫使崇義軍節度使統和原本作開泰考聖宗紀統和三年德凝由彰武軍節度使為崇義軍節度使又屬國表統和十九年西南面招討奏党項之㨗而佚其名以事考之當卽德凝則開泰當為統和今據改遼史卷七十四考證}
   back: []
-hash: sha256:951bcb6ab5fac1e03382340e8e04e6f3a4e00fadcc18b9ae9b8f40620bbc57ff
+hash: sha256:198e813d4a0e44272cc48949ffa29e42d3526192e3adcff3ebc79a438ffae610

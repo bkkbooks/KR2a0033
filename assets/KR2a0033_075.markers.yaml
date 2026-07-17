@@ -21,6 +21,7 @@ markers:
   - {type: punctuation, offset: 14, content: (, id: KR2a0033_ZHSJ_075-bkkpn1}
   - {type: variant, offset: 14, length: 1, content: 羽, WYG: 伊}
   - {type: variant, offset: 14, length: 1, content: 羽, krp: 伊}
+  - {type: voice, offset: 14, length: 2, name: note, id: n1}
   - {type: variant, offset: 15, length: 1, content: 之, WYG: 濟}
   - {type: variant, offset: 15, length: 1, content: 之, krp: 濟}
   - {type: punctuation, offset: 16, content: ), id: KR2a0033_ZHSJ_075-bkkpn2}
@@ -30,6 +31,7 @@ markers:
   - {type: variant, offset: 19, length: 1, content: 臻, WYG: 沁}
   - {type: variant, offset: 19, length: 1, content: 臻, krp: 沁}
   - {type: punctuation, offset: 20, content: (, id: KR2a0033_ZHSJ_075-bkkpn3}
+  - {type: voice, offset: 20, length: 4, name: note, id: n2}
   - {type: indent, offset: 21, content: 　, id: KR2a0033_ZHSJ_075-bkkind2}
   - {type: variant, offset: 21, length: 1, content: 突, WYG: 圖}
   - {type: variant, offset: 21, length: 1, content: 突, krp: 圖}
@@ -1612,4 +1614,4 @@ markers:
   - {type: page-break, offset: 2210, content: '', id: KR2a0033_WYG_075-9b, image: WYG0289/WYG0289-0581d.png}
   - {type: variant, offset: 2210, length: 0, content: '', krp: 遼史卷七十五遼史卷七十五考證王郁傳郁兄都囚父自爲留後帝遣郁討之至定州都堅壁不出掠居民而還按資治通鑑望都之敗契丹主切責王郁縶之以歸自是以後不聴其謀遼史不載其事遼史卷七十五考證}
   back: []
-hash: sha256:333c2b7b91fb241e9f534ef6f3c8761495803a147a825f6577c01a76fe5531fc
+hash: sha256:079d033b02f515ab25db6a464ff55df59ca57f91a0ec17c154bd8cff4015ff03

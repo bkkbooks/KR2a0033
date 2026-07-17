@@ -19,6 +19,7 @@ markers:
   - {type: punctuation, offset: 15, content: (, id: KR2a0033_ZHSJ_081-bkkpn1}
   - {type: variant, offset: 15, length: 2, content: 歐里, WYG: ''}
   - {type: variant, offset: 15, length: 2, content: 歐里, krp: ''}
+  - {type: voice, offset: 15, length: 3, name: note, id: n1}
   - {type: punctuation, offset: 18, content: ), id: KR2a0033_ZHSJ_081-bkkpn2}
   - {type: indent, offset: 18, content: 　, id: KR2a0033_ZHSJ_081-bkkind1}
   - {type: indent, offset: 21, content: 　, id: KR2a0033_ZHSJ_081-bkkind2}
@@ -957,4 +958,4 @@ markers:
   - {type: page-break, offset: 1377, content: '', id: KR2a0033_WYG_081-6b, image: WYG0289/WYG0289-0607b.png}
   - {type: variant, offset: 1377, length: 0, content: '', krp: 遼史卷八十一遼史卷八十一考證王繼忠傳不知何郡人按王繼忠係開封人見宋史王繼忠傳開泰五年為漢人行宮都部署按原本脱開泰二字今据本紀增遼史卷八十一考證}
   back: []
-hash: sha256:c900e5431f2e28a2293094ca75b2724678d7242763bcc10562060b7cbd503a1e
+hash: sha256:e7634681d51e7bf9ae9c2d0560bfb7617a29b7be47e9cb06cf1b13477896db11

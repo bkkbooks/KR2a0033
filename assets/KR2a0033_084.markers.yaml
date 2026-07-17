@@ -25,6 +25,7 @@ markers:
   - {type: punctuation, offset: 20, content: (, id: KR2a0033_ZHSJ_084-bkkpn1}
   - {type: variant, offset: 20, length: 1, content: 討, WYG: 托}
   - {type: variant, offset: 20, length: 1, content: 討, krp: 托}
+  - {type: voice, offset: 20, length: 2, name: note, id: n1}
   - {type: variant, offset: 21, length: 1, content: 古, WYG: 果}
   - {type: variant, offset: 21, length: 1, content: 古, krp: 果}
   - {type: punctuation, offset: 22, content: ), id: KR2a0033_ZHSJ_084-bkkpn2}
@@ -1038,4 +1039,4 @@ markers:
   - {type: page-break, offset: 1392, content: '', id: KR2a0033_WYG_084-6b, image: WYG0289/WYG0289-0619b.png}
   - {type: variant, offset: 1392, length: 0, content: '', krp: 遼史卷八十四遼史卷八十四考證蕭斡傳時皇后以父呼斡按本傳載后為皇太后稱制葢睿智皇后也考外戚表睿智皇后父思温係蕭氏第二世斡係第三世固后兄弟行也而以父呼斡殊不可解蕭托果傳尚朴謹公主按公主表並無朴謹公主外戚表亦止稱托果為平章政事不稱駙馬都尉疑朴謹公主非皇女也遼史卷八十四考證}
   back: []
-hash: sha256:1ff19d4c9d75c13f157566f87f1aad022b9df86d4f531e49e86a861b61cf63c6
+hash: sha256:b03ff2f2fb58a83bdaf5e51829ab76c9b6294180ba682634e8f3568ec4bdb9b2

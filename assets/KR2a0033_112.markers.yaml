@@ -20,11 +20,13 @@ markers:
   - {type: variant, offset: 15, length: 26, content: 耶律轄底迭里特耶律察割耶律婁國耶律重元涅魯古耶律滑哥, WYG: ''}
   - {type: variant, offset: 15, length: 26, content: 耶律轄底迭里特耶律察割耶律婁國耶律重元涅魯古耶律滑哥, krp: ''}
   - {type: punctuation, offset: 19, content: (, id: KR2a0033_ZHSJ_112-bkkpn1}
+  - {type: voice, offset: 19, length: 3, name: note, id: n1}
   - {type: punctuation, offset: 22, content: ), id: KR2a0033_ZHSJ_112-bkkpn2}
   - {type: indent, offset: 22, content: 　, id: KR2a0033_ZHSJ_112-bkkind1}
   - {type: indent, offset: 26, content: 　, id: KR2a0033_ZHSJ_112-bkkind2}
   - {type: line-break, offset: 30, content: '', id: ZHSJ__dup14231}
   - {type: punctuation, offset: 34, content: (, id: KR2a0033_ZHSJ_112-bkkpn3}
+  - {type: voice, offset: 34, length: 3, name: note, id: n2}
   - {type: punctuation, offset: 37, content: ), id: KR2a0033_ZHSJ_112-bkkpn4}
   - {type: indent, offset: 37, content: 　, id: KR2a0033_ZHSJ_112-bkkind3}
   - {type: xml-element, offset: 41, content: '', id: KR2a0033_ZHSJ_112-bkkxmlele2}
@@ -1642,4 +1644,4 @@ markers:
   - {type: xml-element, offset: 2162, content: '', id: KR2a0033_ZHSJ_112-d112n1}
   - {type: xml-element, offset: 2162, content: '', id: KR2a0033_ZHSJ_112-d112n1_end}
   back: []
-hash: sha256:d811db2a468a79185ce840c72e4a10b8b9f1785420a99a666854511889591bf9
+hash: sha256:15ef1824979074b275ab2d98d533d6b6359d32dbe4ebabef51dddd9d1f3382f8

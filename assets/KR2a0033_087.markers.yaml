@@ -17,6 +17,7 @@ markers:
   - {type: punctuation, offset: 14, content: (, id: KR2a0033_ZHSJ_087-bkkpn1}
   - {type: variant, offset: 14, length: 2, content: 撒八, WYG: 薩巴孝友}
   - {type: variant, offset: 14, length: 2, content: 撒八, krp: 薩巴孝友}
+  - {type: voice, offset: 14, length: 6, name: note, id: n1}
   - {type: indent, offset: 16, content: 　, id: KR2a0033_ZHSJ_087-bkkind1}
   - {type: indent, offset: 18, content: 　, id: KR2a0033_ZHSJ_087-bkkind2}
   - {type: variant, offset: 18, length: 2, content: 孝友, WYG: ''}
@@ -1377,4 +1378,4 @@ markers:
   - {type: page-break, offset: 2138, content: '', id: KR2a0033_WYG_087-8b, image: WYG0289/WYG0289-0631b.png}
   - {type: variant, offset: 2138, length: 0, content: '', krp: 遼史卷八十七遼史卷八十七考證蕭孝穆傳孝穆二子阿拉薩巴按聖宗本紀太平四年以孝穆子蕭順為千牛衛將軍百官志同考孝穆子無有名順者此處薩巴傳有加千牛衛大將軍正與紀合疑蕭順即薩巴之賜名紀載互異也蕭博諾傳十八年為西南招討使西征夏國按興宗本紀及西夏外紀俱係重熙十八年伐夏刻本舊作十五年係誤謹據改遼史卷八十七考證}
   back: []
-hash: sha256:1ac5b267e647fba4ca1cf654f81113fe4819725ba86b54400af0eb97c3775fbd
+hash: sha256:39b70bb1ae5043a00f4ca324863fbc82ee3ee95902910fc2ea1c7bb27398b2c2

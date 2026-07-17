@@ -22,6 +22,7 @@ markers:
   - {type: variant, offset: 15, length: 1, content: 敵, WYG: 達}
   - {type: variant, offset: 15, length: 1, content: 敵, krp: 達}
   - {type: punctuation, offset: 17, content: (, id: KR2a0033_ZHSJ_073-bkkpn1}
+  - {type: voice, offset: 17, length: 3, name: note, id: n1}
   - {type: variant, offset: 19, length: 1, content: 只, WYG: 齊}
   - {type: variant, offset: 19, length: 1, content: 只, krp: 齊}
   - {type: punctuation, offset: 20, content: ), id: KR2a0033_ZHSJ_073-bkkpn2}
@@ -35,6 +36,7 @@ markers:
   - {type: punctuation, offset: 25, content: (, id: KR2a0033_ZHSJ_073-bkkpn3}
   - {type: variant, offset: 25, length: 1, content: 老, WYG: 隆}
   - {type: variant, offset: 25, length: 1, content: 老, krp: 隆}
+  - {type: voice, offset: 25, length: 4, name: note, id: n2}
   - {type: variant, offset: 26, length: 1, content: 古, WYG: 科}
   - {type: variant, offset: 26, length: 1, content: 古, krp: 科}
   - {type: indent, offset: 27, content: 　, id: KR2a0033_ZHSJ_073-bkkind3}
@@ -2241,4 +2243,4 @@ markers:
   - {type: page-break, offset: 2801, content: '', id: KR2a0033_WYG_073-11b, image: WYG0289/WYG0289-0572d.png}
   - {type: variant, offset: 2801, length: 0, content: '', krp: 遼史卷七十三遼史卷七十三考證耶律赫嚕傳拜赫嚕為阿勒坦裕悦阿勒坦原本作阿魯敦按太祖本紀又作阿廬朶係音譯之訛今併改遼史卷七十三考證}
   back: []
-hash: sha256:21ed68dcdb843700b0c6a13800376108c0c5b741831528107ed77c8abe9348fb
+hash: sha256:caeee71f25725ba4bb7e8dfaa1fbaff4af8e6996731cb539a76e5a1c73dc5e4b

@@ -19,6 +19,7 @@ markers:
   - {type: punctuation, offset: 15, content: (, id: KR2a0033_ZHSJ_083-bkkpn1}
   - {type: variant, offset: 15, length: 1, content: 馬, WYG: 瑪}
   - {type: variant, offset: 15, length: 1, content: 馬, krp: 瑪}
+  - {type: voice, offset: 15, length: 2, name: note, id: n1}
   - {type: variant, offset: 16, length: 1, content: 哥, WYG: 格}
   - {type: variant, offset: 16, length: 1, content: 哥, krp: 格}
   - {type: punctuation, offset: 17, content: ), id: KR2a0033_ZHSJ_083-bkkpn2}
@@ -36,6 +37,7 @@ markers:
   - {type: punctuation, offset: 29, content: (, id: KR2a0033_ZHSJ_083-bkkpn3}
   - {type: variant, offset: 29, length: 1, content: 烏, WYG: 額}
   - {type: variant, offset: 29, length: 1, content: 烏, krp: 額}
+  - {type: voice, offset: 29, length: 3, name: note, id: n2}
   - {type: variant, offset: 30, length: 1, content: 不, WYG: 布}
   - {type: variant, offset: 30, length: 1, content: 不, krp: 布}
   - {type: variant, offset: 31, length: 1, content: 呂, WYG: 勒}
@@ -1703,4 +1705,4 @@ markers:
   - {type: page-break, offset: 2389, content: '', id: KR2a0033_WYG_083-9b, image: WYG0289/WYG0289-0616b.png}
   - {type: variant, offset: 2389, length: 0, content: '', krp: 遼史卷八十三遼史卷八十三考證耶律休格傳休格二子按聖宗本紀統和二十一年休格子道士努以謀反誅是休格不止二子也耶律色珍傳楊繼業被擒太息死罪而已按契丹國志稱繼業被擒太息曰主上遇我厚何靣目求活於此不食三日死麾下百餘人皆感泣不肯去遂俱死無生還者聖宗紀所載畧同則此傳但稱死罪之語似未足信至業之稱繼業以業在北漢時原賜姓劉名繼業也遼史卷八十三考證}
   back: []
-hash: sha256:826cbffe3d3d0d1c37b01a8259f897ab4c8983654deefe74d0f5ce76aca2132f
+hash: sha256:b929cf7af562f7a8097cca104f4a59e882916cee8be6759d878dca295580eb2e

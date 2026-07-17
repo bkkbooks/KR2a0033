@@ -20,6 +20,7 @@ markers:
   - {type: punctuation, offset: 17, content: (, id: KR2a0033_ZHSJ_090-bkkpn1}
   - {type: variant, offset: 17, length: 0, content: '', WYG: 耶律}
   - {type: variant, offset: 17, length: 0, content: '', krp: 耶律}
+  - {type: voice, offset: 17, length: 2, name: note, id: n1}
   - {type: punctuation, offset: 19, content: ), id: KR2a0033_ZHSJ_090-bkkpn2}
   - {type: indent, offset: 19, content: 　, id: KR2a0033_ZHSJ_090-bkkind2}
   - {type: variant, offset: 20, length: 1, content: 陶, WYG: 托}
@@ -1198,4 +1199,4 @@ markers:
   - {type: page-break, offset: 1529, content: '', id: KR2a0033_WYG_090-6b, image: WYG0289/WYG0289-0643d.png}
   - {type: variant, offset: 1529, length: 0, content: '', krp: 遼史卷九十}
   back: []
-hash: sha256:b034b562f56647369dd1fe0081402f6534c3938afe2f39490955709da8c84271
+hash: sha256:2479498d6da45d4851af2c5e90ae3248f53e8332268979fee0cba696eec9d53f

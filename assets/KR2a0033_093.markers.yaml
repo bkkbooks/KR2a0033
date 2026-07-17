@@ -15,6 +15,7 @@ markers:
   - {type: variant, offset: 6, length: 0, content: '', krp: 元中書右丞相總裁托克托等修}
   - {type: line-break, offset: 12, content: '', id: ZHSJ__dup12939}
   - {type: punctuation, offset: 14, content: (, id: KR2a0033_ZHSJ_093-bkkpn1}
+  - {type: voice, offset: 14, length: 3, name: note, id: n1}
   - {type: variant, offset: 15, length: 1, content: 氏, WYG: 實}
   - {type: variant, offset: 15, length: 1, content: 氏, krp: 實}
   - {type: variant, offset: 16, length: 1, content: 奴, WYG: 努}
@@ -26,6 +27,7 @@ markers:
   - {type: punctuation, offset: 20, content: (, id: KR2a0033_ZHSJ_093-bkkpn3}
   - {type: variant, offset: 20, length: 1, content: 鐸, WYG: 都}
   - {type: variant, offset: 20, length: 1, content: 鐸, krp: 都}
+  - {type: voice, offset: 20, length: 3, name: note, id: n2}
   - {type: variant, offset: 21, length: 1, content: 盧, WYG: 勒}
   - {type: variant, offset: 21, length: 1, content: 盧, krp: 勒}
   - {type: punctuation, offset: 23, content: ), id: KR2a0033_ZHSJ_093-bkkpn4}
@@ -1781,4 +1783,4 @@ markers:
   - {type: page-break, offset: 2473, content: '', id: KR2a0033_WYG_093-9b, image: WYG0289/WYG0289-0654b.png}
   - {type: variant, offset: 2473, length: 0, content: '', krp: 遼史卷九十三遼史卷九十三考證蕭惠傳十七年尚帝姊秦晉國長公主拜駙馬都尉按帝字原本誤作弟今據𢎞簡録改蕭托雲傳十九年總領西北路軍事後以本路兵伐甘州降其酋長伊蘭按聖宗本紀統和二十六年蕭托雲奏討甘州回鶻降其王耶剌里撫慰而還此處原本稱降其酋長牙懶即此事也牙懶與耶剌里俱係音近之譌今畫一改總論内都勒斡高情雅韻都沁雖廉不逮蕭惠而無邀功啟釁之罪亦庶乎君子之風矣按都勒斡高情雅韻等句原本作鐸軫高情雅韻鐸盧斡雖廉不逮惠而無邀功啟釁之罪考高情雅韻係都勒斡傳中語都沁傳無此四字蓋都勒斡原本作鐸盧斡都沁原本作鐸軫兩名俱有鐸字遂至互易其名而誤也今據傳改正遼史卷九十三考證}
   back: []
-hash: sha256:380651b9e8eaacb7339ce1df50f703a4a9f6f9075cb6cb54b909e1c42320bdf3
+hash: sha256:49f8fa03afe2f8953965fca06a0c5f4a3fd762d518acc8dfc49e6ca93198cf47

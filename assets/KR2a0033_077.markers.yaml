@@ -22,6 +22,7 @@ markers:
   - {type: punctuation, offset: 17, content: (, id: KR2a0033_ZHSJ_077-bkkpn1}
   - {type: variant, offset: 17, length: 1, content: 何, WYG: 和}
   - {type: variant, offset: 17, length: 1, content: 何, krp: 和}
+  - {type: voice, offset: 17, length: 3, name: note, id: n1}
   - {type: variant, offset: 18, length: 1, content: 魯, WYG: 勒}
   - {type: variant, offset: 18, length: 1, content: 魯, krp: 勒}
   - {type: variant, offset: 19, length: 1, content: 不, WYG: 博}
@@ -2251,4 +2252,4 @@ markers:
   - {type: page-break, offset: 2975, content: '', id: KR2a0033_WYG_077-12b, image: WYG0289/WYG0289-0593b.png}
   - {type: variant, offset: 2975, length: 0, content: '', krp: 遼史卷七十七遼史卷七十七考證耶律烏哲傳五年五月薨五年原本作是年考景宗紀保寧五年五月裕悦烏哲薨今據改耶律吼傳臣從弟達魯諸子坐事籍没達魯原本作的琭世宗紀又作的魯今併改耶律安圖傳曽祖揚珠元祖之長子揚珠原本作巖本皇族表作巖术皇子表作巖本皆傳寫之訛今併改又皇子表元祖長子曰瑪嚕揚珠其第二子也與傳亦互異父迪里神冊六年為特哩衮從太祖將龍軍討準布党項有功天贊三年為南院額爾奇木征渤海按太祖紀神册六年迪里為特哩衮天贊三年五月為南院額爾奇木九月從太祖討準布略地西南天顯元年正月從征渤海是年太祖崩十一月迪里被殺前後序次秩然今傳以迪里從討準布屬之神冊六年而從征渤海又不繫以天顯元年殊屬疎畧耶律塔喇傳周主遣郭從義尚鈞等率精騎拒於忻口按五代歐史周木紀漢世家俱作符彦卿穆宗紀及契丹國志正同通鑑又作李筠張永徳亦無郭從義尚鈞之名皆傳聞異詞也遼史卷七十七考證}
   back: []
-hash: sha256:946749c441923ded439e26bf19fee9551fb41e0bb9a3eb7cbda497d9417c0219
+hash: sha256:bd2be6be201dbd4a9bff9dacc5751a6e4b91b46424bb2ebdbabfc9c5729678d8

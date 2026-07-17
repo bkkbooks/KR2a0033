@@ -15,6 +15,7 @@ markers:
   - {type: variant, offset: 6, length: 0, content: '', krp: 元中書右丞相總裁托克托等修}
   - {type: line-break, offset: 11, content: '', id: ZHSJ__dup12694}
   - {type: punctuation, offset: 15, content: (, id: KR2a0033_ZHSJ_089-bkkpn1}
+  - {type: voice, offset: 15, length: 4, name: note, id: n1}
   - {type: substitution, offset: 16, original: 箴, replacement: 針, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20164}}
   - {type: indent, offset: 17, content: 　, id: KR2a0033_ZHSJ_089-bkkind1}
   - {type: variant, offset: 17, length: 1, content: 蒲, WYG: 冨}
@@ -1192,4 +1193,4 @@ markers:
   - {type: page-break, offset: 1791, content: '', id: KR2a0033_WYG_089-7b, image: WYG0289/WYG0289-0640d.png}
   - {type: variant, offset: 1791, length: 0, content: '', krp: 遼史卷八十九遼史卷八十九考證耶律庶成傳補牌印郎君按百官志耶律庶成嘗為翰林都林牙在重熙十三年與興宗本紀合傳未載遼史卷八十九考證}
   back: []
-hash: sha256:d45015ac7cd5c879987dfcad1e558fb6bf4978043c3ee93622b4899b3be1f7d3
+hash: sha256:6f1327adaec431311366c172850c843e5e4250c8dade1eb2a8bd23d80f54466c
